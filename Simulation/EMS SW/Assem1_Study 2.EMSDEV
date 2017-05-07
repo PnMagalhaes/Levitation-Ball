@@ -1,0 +1,488 @@
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.000000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 19:55:42 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   132 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   16          Dimension 115011  Non_Zeroes 1806231  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   39          Dimension 17841  Non_Zeroes 247863
+     >>>Solving MCI                  00:00:00   39          Dimension 17841  Non_Zeroes 247863  Coil 1
+ Solving Step III                    00:00:03 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 19:55:49 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.100000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 19:55:50 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   123 
+     >>>Solving MCI                  00:00:00   2          Dimension 17841  Non_Zeroes 247863
+     >>>Solving MCI                  00:00:00   2          Dimension 17841  Non_Zeroes 247863  Coil 1
+ Solving Step III                    00:00:03 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Sun Mar 05 19:55:57 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.200000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 19:55:57 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   152 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   16          Dimension 115011  Non_Zeroes 1806231  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   1          Dimension 17841  Non_Zeroes 247863
+     >>>Solving MCI                  00:00:00   1          Dimension 17841  Non_Zeroes 247863  Coil 1
+ Solving Step III                    00:00:03 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Sun Mar 05 19:56:04 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.300000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 19:56:04 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   18          Dimension 115011  Non_Zeroes 1806231  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   13          Dimension 17841  Non_Zeroes 247863
+     >>>Solving MCI                  00:00:00   13          Dimension 17841  Non_Zeroes 247863  Coil 1
+ Solving Step III                    00:00:03 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Sun Mar 05 19:56:11 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.400000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 19:56:11 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   27          Dimension 115011  Non_Zeroes 1806231  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   10          Dimension 17841  Non_Zeroes 247863
+     >>>Solving MCI                  00:00:00   3          Dimension 17841  Non_Zeroes 247863  Coil 1
+ Solving Step III                    00:00:03 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Sun Mar 05 19:56:18 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.500000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 19:56:18 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   121 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   27          Dimension 115011  Non_Zeroes 1806231  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   2          Dimension 17841  Non_Zeroes 247863
+     >>>Solving MCI                  00:00:00   2          Dimension 17841  Non_Zeroes 247863  Coil 1
+ Solving Step III                    00:00:03 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Sun Mar 05 19:56:25 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.600000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 19:56:25 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   131 
+     >>>Solving MCI                  00:00:00   23          Dimension 115011  Non_Zeroes 1806231  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   11          Dimension 17841  Non_Zeroes 247863
+     >>>Solving MCI                  00:00:00   11          Dimension 17841  Non_Zeroes 247863  Coil 1
+ Solving Step III                    00:00:03 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Sun Mar 05 19:56:32 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.700000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 19:56:32 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   131 
+     >>>Solving MCI                  00:00:00   27          Dimension 115011  Non_Zeroes 1806231  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   3          Dimension 17841  Non_Zeroes 247863
+     >>>Solving MCI                  00:00:00   3          Dimension 17841  Non_Zeroes 247863  Coil 1
+ Solving Step III                    00:00:03 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 19:56:39 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.800000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 19:56:39 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:02   131 
+     >>>Solving MCI                  00:00:01   44          Dimension 115011  Non_Zeroes 1806231  Coil 1
+ Solving Step II                     00:00:02 
+     >>>Solving MCI                  00:00:00   7          Dimension 17841  Non_Zeroes 247863
+     >>>Solving MCI                  00:00:00   7          Dimension 17841  Non_Zeroes 247863  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 19:56:46 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.900000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 19:56:46 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:02   126 
+ Solving Step I                      00:00:00 
+     >>>Solving MCI                  00:00:00   26          Dimension 17841  Non_Zeroes 247863
+     >>>Solving MCI                  00:00:00   26          Dimension 17841  Non_Zeroes 247863  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 19:56:53 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 1.000000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 19:56:54 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   127 
+ Solving Step I                      00:00:00 
+     >>>Solving MCI                  00:00:01   6          Dimension 115011  Non_Zeroes 1806231  Coil 1
+ Solving Step II                     00:00:02 
+     >>>Solving MCI                  00:00:00   3          Dimension 17841  Non_Zeroes 247863
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.000000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 20:01:38 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ 
+
+                          Ended on: Sun Mar 05 20:01:41 2017
+
+
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.000000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 20:01:56 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   95 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   25          Dimension 81519  Non_Zeroes 1274115  Coil 1
+ Solving Step II                     00:00:00 
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 20:02:01 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.100000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 20:02:01 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   87 
+ Solving Step I                      00:00:00 
+     >>>Solving MCI                  00:00:01   69          Dimension 81519  Non_Zeroes 1274115  Coil 1
+ Solving Step II                     00:00:02 
+     >>>Solving MCI                  00:00:00   4          Dimension 12767  Non_Zeroes 175805
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805  Coil 1
+ Solving Step III                    00:00:01 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 20:02:06 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.200000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 20:02:07 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   90 
+ Solving Step I                      00:00:00 
+     >>>Solving MCI                  00:00:00   28          Dimension 81519  Non_Zeroes 1274115  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805  Coil 1
+ Solving Step III                    00:00:01 
+ Writting Solution                   00:00:01 
+ Filling Elements Array              00:00:00   87 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   24          Dimension 81519  Non_Zeroes 1274115  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805  Coil 1
+ Solving Step III                    00:00:01 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 20:02:16 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.400000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 20:02:17 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:00   139 
+     >>>Solving MCI                  00:00:00   4          Dimension 81519  Non_Zeroes 1274115  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   7          Dimension 12767  Non_Zeroes 175805
+     >>>Solving MCI                  00:00:00   7          Dimension 12767  Non_Zeroes 175805  Coil 1
+ Solving Step III                    00:00:01 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 20:02:21 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.500000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 20:02:22 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   102 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   34          Dimension 81519  Non_Zeroes 1274115  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805  Coil 1
+ Solving Step III                    00:00:01 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 20:02:27 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.600000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 20:02:27 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   93 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   38          Dimension 81519  Non_Zeroes 1274115  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805  Coil 1
+ Solving Step III                    00:00:01 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 20:02:32 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.700000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 20:02:33 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   82 
+ Solving Step I                      00:00:00 
+     >>>Solving MCI                  00:00:00   0          Dimension 81519  Non_Zeroes 1274115  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Sun Mar 05 20:02:37 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.800000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 20:02:38 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+     >>>Solving MCI                  00:00:00   48          Dimension 81519  Non_Zeroes 1274115  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Sun Mar 05 20:02:42 2017
+
+
+
+
+* * * * * * * * * * * * * * * * * * *| Motion Time Step: 0.900000  |* * * * * * * * * * * * * * * * * * *  * *
+
+ 
+                          Started on: Sun Mar 05 20:02:43 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   86 
+ Solving Step I                      00:00:00 
+     >>>Solving MCI                  00:00:00   8          Dimension 81519  Non_Zeroes 1274115  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 20:02:48 2017
+
+
+     >>>Solving MCI                  00:00:00   49          Dimension 81519  Non_Zeroes 1274115  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805
+     >>>Solving MCI                  00:00:00   0          Dimension 12767  Non_Zeroes 175805  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:01 
+ 
+
+                          Ended on: Sun Mar 05 20:02:53 2017
+
+

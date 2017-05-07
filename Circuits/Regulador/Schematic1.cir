@@ -1,0 +1,24 @@
+* C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\Schematic1.sch
+
+* Schematics Version 9.1 - Web Update 1
+* Mon Mar 20 14:15:53 2017
+
+
+
+** Analysis setup **
+.tran 0ns 10us
+
+
+* From [PSPICE NETLIST] section of pspiceev.ini:
+.lib "C:\Users\ameli_000\Google Drive\Universidade\_E4\irfp450.lib"
+.lib "C:\Users\ameli_000\SkyDrive\Documentos\Schematic1.lib"
+.lib "nom.lib"
+
+.INC "Schematic1.net"
+.INC "Schematic1.als"
+
+
+.probe
+
+
+.END

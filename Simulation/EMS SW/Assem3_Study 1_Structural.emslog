@@ -1,0 +1,104 @@
+﻿*********************************************
+
+    E l e c t r o M a g n e t i c W o r k s   I n c. 
+
+            =<  Structural Solver >= 
+
+*********************************************
+
+
+
+
+>>Initializing solver...
+
+
+>>Preparing Thermal solution 
+
+
+
+
+>>Getting Nodes coordinates
+
+
+>>Filling the elements array
+
+
+>>Mesh Elements: 88121  Mesh Nodes: 15318
+
+
+>>Applying materials..
+
+
+>>Getting boundary conditions:
+
+
+>>Getting loading constraints:
+
+
+>>Preparing step for run..
+
+
+>>Determining the structure of the matrix..
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices
+
+
+>>Iterative Matrix Solver...
+
+
+>>Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Iterative Matrix Solver...
+
+
+>>Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 3
+
+
+>>Filling the stifness matrix..
+
+
+>>Iterative Matrix Solver...
+
+
+>>Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>The increment size exceeds the remainder of the step and is decreased to 0.000000e+000
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution
+
+
+>>Total simulation time: 00:00:09

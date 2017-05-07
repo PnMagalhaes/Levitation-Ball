@@ -1,0 +1,10 @@
+* Schematics Netlist *
+
+
+
+L_L2         $N_0001 Vout  3.5mH  
+V_V1         $N_0001 0 12
+V_PWM         $N_0002 0  
++PULSE 0 10 10n 100p 100p 0.5u 1u
+M_M2         Vout $N_0003 0 0 IRF150
+R_R1         $N_0002 $N_0003  1M  

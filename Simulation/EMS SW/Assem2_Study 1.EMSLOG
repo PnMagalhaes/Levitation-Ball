@@ -1,0 +1,133 @@
+﻿* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+*                                                                              
+*                                                                              
+*               E l e c t r o M a g n e t i c W o r k s   I n c.              *
+*                                                                              
+*                                                                              
+*               EMS 2016 x64 SP2.2 (2016/065)                                  
+*                                                                              
+*                                                                              
+*                          =<  Magnetostatic Module  >=                        
+*                                                                              
+*                                                                              
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 22:07:15 2017
+
+		Sun Mar 05 22:07:15 2017
+
+
+Initializing solver...		Sun Mar 05 22:07:16 2017
+
+
+Study Run...		Sun Mar 05 22:07:16 2017
+
+Checking Load Restraint mesh		Sun Mar 05 22:07:16 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 22:07:16 2017
+
+Nbr mesh faces found the Boundary Condition Convection Properties - 1 is 53660		Sun Mar 05 22:07:16 2017
+
+Checking coils mesh		Sun Mar 05 22:07:16 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 22:07:16 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 101464		Sun Mar 05 22:07:16 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 148		Sun Mar 05 22:07:16 2017
+
+Preparing mesh database		Sun Mar 05 22:07:16 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 22:07:16 2017
+
+Filling the elements array		Sun Mar 05 22:07:16 2017
+
+
+Checking mesh validity!		Sun Mar 05 22:07:16 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 22:07:16 2017
+
+>>> Finish fill edge array
+		Sun Mar 05 22:07:16 2017
+
+>>> Mesh Elements: = 54377  Mesh Nodes: = 11133
+		Sun Mar 05 22:07:16 2017
+
+>>> Nbr. of edges = 69512  Nbr. of faces = 112758
+		Sun Mar 05 22:07:16 2017
+
+Finish preparing mesh dataBase		Sun Mar 05 22:07:16 2017
+
+Checking Force torque mesh		Sun Mar 05 22:07:16 2017
+
+Finish All mesh checking		Sun Mar 05 22:07:16 2017
+
+
+Done with the Main Study Run		Sun Mar 05 22:07:16 2017
+
+Setting Coils parameters...		Sun Mar 05 22:07:16 2017
+
+
+Getting Coils mesh data		Sun Mar 05 22:07:16 2017
+
+Getting Coils mesh data		Sun Mar 05 22:07:16 2017
+
+Checking materials non linear status...		Sun Mar 05 22:07:16 2017
+
+Forming Coils Support Regions		Sun Mar 05 22:07:16 2017
+
+Preparing linear system...		Sun Mar 05 22:07:16 2017
+
+Factorizing Matrix for Coil 1		Sun Mar 05 22:07:16 2017
+
+
+Done solving conduction for Coil 1		Sun Mar 05 22:07:17 2017
+
+
+Start Prepare Linear system for vector TS		Sun Mar 05 22:07:17 2017
+
+
+Finish Prepare linear system for vector TS		Sun Mar 05 22:07:18 2017
+
+Distributing the currents for Coil 1		Sun Mar 05 22:07:18 2017
+
+Solver in progress...		Sun Mar 05 22:07:18 2017
+
+
+Done Solving Successfully		Sun Mar 05 22:07:18 2017
+
+Distributed Current successfully for Coil 1		Sun Mar 05 22:07:18 2017
+
+Initializing Thermal Solver... 
+		Sun Mar 05 22:07:18 2017
+
+Preparing Thermal solution 
+
+
+Invoking The Main Magnetostatic Solver...		Sun Mar 05 22:07:19 2017
+
+Solver in progress...		Sun Mar 05 22:07:20 2017
+
+
+Done Solving Successfully		Sun Mar 05 22:07:20 2017
+
+Computing force and torques quantities...		Sun Mar 05 22:07:20 2017
+
+Solver in progress...		Sun Mar 05 22:07:20 2017
+
+
+Done Solving Successfully		Sun Mar 05 22:07:20 2017
+
+Computing postprocessor quantities...		Sun Mar 05 22:07:21 2017
+
+Writing Solution...		Sun Mar 05 22:07:21 2017
+
+>>> Thermal solving 
+		Sun Mar 05 22:07:21 2017
+
+Assembling Thermal Matrices

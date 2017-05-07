@@ -1,0 +1,24 @@
+* C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\2Abril.sch
+
+* Schematics Version 9.1 - Web Update 1
+* Sun Apr 02 16:06:18 2017
+
+
+
+** Analysis setup **
+.OP 
+.LIB "C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\2Abril.lib"
+
+
+* From [PSPICE NETLIST] section of pspiceev.ini:
+.lib "C:\Users\ameli_000\SkyDrive\Documentos\Schematic1.lib"
+.lib "nom.lib"
+
+.INC "2Abril.net"
+.INC "2Abril.als"
+
+
+.probe
+
+
+.END

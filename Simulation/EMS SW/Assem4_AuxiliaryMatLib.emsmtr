@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MaterialLibrary>
+  <Material MaterialName="Air" MaterialID="88" UnitSystem="MKS" MaterialDisplayName="Air" MatID="7569038e-f395-40bc-acb8-963c096873ed" FolderName="Air" LibraryName="EMS Materials" LibraryFileName="C:\Users\Public\Documents\EMS Documents\EMS Materials\EMS Materials.emsmtr">
+    <Conductivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>0</Value>
+    </Conductivity>
+    <Permeability p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>1</Value>
+    </Permeability>
+    <Permittivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>1</Value>
+    </Permittivity>
+    <Polarization p3:type="Non_Permanent_Polarization" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>NAValue</Value>
+    </Polarization>
+    <Magnetization p3:type="Non_Permanent_Magnetization" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>NAValue</Value>
+    </Magnetization>
+    <ThermalConductivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>0.024</Value>
+    </ThermalConductivity>
+    <MassDensity type="Isotropic_Linear_Real_ValueType">
+      <Value>1.1</Value>
+    </MassDensity>
+    <SpecificHeat type="Isotropic_Linear_Real_ValueType">
+      <Value>1000</Value>
+    </SpecificHeat>
+  </Material>
+  <Material MaterialName="Copper" MaterialID="97" UnitSystem="MKS" MaterialDisplayName="Copper" MatID="c7ee8b3f-e94d-42fb-8f31-97c023528db3" FolderName="Conductor material" LibraryName="EMS Materials" LibraryFileName="C:\Users\Public\Documents\EMS Documents\EMS Materials\EMS Materials.emsmtr">
+    <Conductivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>57000000</Value>
+    </Conductivity>
+    <Permeability p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>0.999991</Value>
+    </Permeability>
+    <Permittivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>1</Value>
+    </Permittivity>
+    <Polarization p3:type="Non_Permanent_Polarization" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>NAValue</Value>
+    </Polarization>
+    <Magnetization p3:type="Non_Permanent_Magnetization" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>NAValue</Value>
+    </Magnetization>
+    <ThermalConductivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>385</Value>
+    </ThermalConductivity>
+    <ElasticModulus type="Isotropic_Linear_Real_ValueType">
+      <Value>110000000000</Value>
+    </ElasticModulus>
+    <PoissonsRatio type="Isotropic_Linear_Real_ValueType">
+      <Value>0.37</Value>
+    </PoissonsRatio>
+    <MassDensity type="Isotropic_Linear_Real_ValueType">
+      <Value>8900</Value>
+    </MassDensity>
+    <ThermalExpansionCoefficient type="Isotropic_Linear_Real_ValueType">
+      <Value>2.4E-05</Value>
+    </ThermalExpansionCoefficient>
+    <SpecificHeat type="Isotropic_Linear_Real_ValueType">
+      <Value>390</Value>
+    </SpecificHeat>
+    <YieldStrength type="Isotropic_Linear_Real_ValueType">
+      <Value>258646000</Value>
+    </YieldStrength>
+    <TensileStrength type="Isotropic_Linear_Real_ValueType">
+      <Value>394380000</Value>
+    </TensileStrength>
+    <CompressiveStrength type="Isotropic_Linear_Real_ValueType">
+      <Value />
+    </CompressiveStrength>
+  </Material>
+  <Material MaterialName="Copper" MaterialID="97" UnitSystem="MKS" MaterialDisplayName="Copper" MatID="eeed64d3-621c-4365-8fbb-8ff6072e29cf" FolderName="Conductor material" LibraryName="EMS Materials" LibraryFileName="C:\Users\Public\Documents\EMS Documents\EMS Materials\EMS Materials.emsmtr">
+    <Conductivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>57000000</Value>
+    </Conductivity>
+    <Permeability p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>0.999991</Value>
+    </Permeability>
+    <Permittivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>1</Value>
+    </Permittivity>
+    <Polarization p3:type="Non_Permanent_Polarization" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>NAValue</Value>
+    </Polarization>
+    <Magnetization p3:type="Non_Permanent_Magnetization" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>NAValue</Value>
+    </Magnetization>
+    <ThermalConductivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>385</Value>
+    </ThermalConductivity>
+    <ElasticModulus type="Isotropic_Linear_Real_ValueType">
+      <Value>110000000000</Value>
+    </ElasticModulus>
+    <PoissonsRatio type="Isotropic_Linear_Real_ValueType">
+      <Value>0.37</Value>
+    </PoissonsRatio>
+    <MassDensity type="Isotropic_Linear_Real_ValueType">
+      <Value>8900</Value>
+    </MassDensity>
+    <ThermalExpansionCoefficient type="Isotropic_Linear_Real_ValueType">
+      <Value>2.4E-05</Value>
+    </ThermalExpansionCoefficient>
+    <SpecificHeat type="Isotropic_Linear_Real_ValueType">
+      <Value>390</Value>
+    </SpecificHeat>
+    <YieldStrength type="Isotropic_Linear_Real_ValueType">
+      <Value>258646000</Value>
+    </YieldStrength>
+    <TensileStrength type="Isotropic_Linear_Real_ValueType">
+      <Value>394380000</Value>
+    </TensileStrength>
+    <CompressiveStrength type="Isotropic_Linear_Real_ValueType">
+      <Value />
+    </CompressiveStrength>
+  </Material>
+  <Material MaterialName="Iron" UnitSystem="MKS" MaterialID="92" MaterialDisplayName="Iron" MatID="0daf7744-58e1-4ca4-aef6-3ceb39c27574" FolderName="ferromagnetic" LibraryName="EMS Materials" LibraryFileName="C:\Users\Public\Documents\EMS Documents\EMS Materials\EMS Materials.emsmtr">
+    <Conductivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>10300000</Value>
+    </Conductivity>
+    <Permeability p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>5000</Value>
+    </Permeability>
+    <Permittivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>1</Value>
+    </Permittivity>
+    <Polarization p3:type="Non_Permanent_Polarization" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>NAValue</Value>
+    </Polarization>
+    <Magnetization p3:type="Non_Permanent_Magnetization" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>NAValue</Value>
+    </Magnetization>
+    <ThermalConductivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>80</Value>
+    </ThermalConductivity>
+    <ElasticModulus type="Isotropic_Linear_Real_ValueType">
+      <Value>204000000000</Value>
+    </ElasticModulus>
+    <PoissonsRatio type="Isotropic_Linear_Real_ValueType">
+      <Value>0.29</Value>
+    </PoissonsRatio>
+    <MassDensity type="Isotropic_Linear_Real_ValueType">
+      <Value>7860</Value>
+    </MassDensity>
+    <ThermalExpansionCoefficient type="Isotropic_Linear_Real_ValueType">
+      <Value>1.2E-05</Value>
+    </ThermalExpansionCoefficient>
+    <SpecificHeat type="Isotropic_Linear_Real_ValueType">
+      <Value>444</Value>
+    </SpecificHeat>
+    <YieldStrength type="Isotropic_Linear_Real_ValueType">
+      <Value>110000000</Value>
+    </YieldStrength>
+    <TensileStrength type="Isotropic_Linear_Real_ValueType">
+      <Value>230000000</Value>
+    </TensileStrength>
+    <CompressiveStrength type="Isotropic_Linear_Real_ValueType">
+      <Value>165000000</Value>
+    </CompressiveStrength>
+  </Material>
+  <Material MaterialName="Air" MaterialID="88" UnitSystem="MKS" MaterialDisplayName="Air" MatID="30ab16b7-1da3-4b14-b893-2af6247d8f12" FolderName="Air" LibraryName="EMS Materials" LibraryFileName="C:\Users\Public\Documents\EMS Documents\EMS Materials\EMS Materials.emsmtr">
+    <Conductivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>0</Value>
+    </Conductivity>
+    <Permeability p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>1</Value>
+    </Permeability>
+    <Permittivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>1</Value>
+    </Permittivity>
+    <Polarization p3:type="Non_Permanent_Polarization" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>NAValue</Value>
+    </Polarization>
+    <Magnetization p3:type="Non_Permanent_Magnetization" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>NAValue</Value>
+    </Magnetization>
+    <ThermalConductivity p3:type="Isotropic_Linear_Real_ValueType" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance">
+      <Value>0.024</Value>
+    </ThermalConductivity>
+    <MassDensity type="Isotropic_Linear_Real_ValueType">
+      <Value>1.1</Value>
+    </MassDensity>
+    <SpecificHeat type="Isotropic_Linear_Real_ValueType">
+      <Value>1000</Value>
+    </SpecificHeat>
+  </Material>
+</MaterialLibrary>

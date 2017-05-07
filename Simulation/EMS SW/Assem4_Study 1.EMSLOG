@@ -1,0 +1,1244 @@
+﻿* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+*                                                                              
+*                                                                              
+*               E l e c t r o M a g n e t i c W o r k s   I n c.              *
+*                                                                              
+*                                                                              
+*               EMS 2016 x64 SP2.2 (2016/065)                                  
+*                                                                              
+*                                                                              
+*                          =<  Magnetostatic Module  >=                        
+*                                                                              
+*                                                                              
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+                          Started on: Mon Mar 06 13:26:52 2017
+
+		Mon Mar 06 13:26:52 2017
+
+
+Initializing solver...		Mon Mar 06 13:26:52 2017
+
+
+Study Run...		Mon Mar 06 13:26:52 2017
+
+Checking coils mesh		Mon Mar 06 13:26:52 2017
+
+>>> Checking coils mesh
+		Mon Mar 06 13:26:52 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 96004		Mon Mar 06 13:26:52 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 141		Mon Mar 06 13:26:52 2017
+
+Preparing mesh database		Mon Mar 06 13:26:52 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Mon Mar 06 13:26:52 2017
+
+Filling the elements array		Mon Mar 06 13:26:52 2017
+
+
+Checking mesh validity!		Mon Mar 06 13:26:52 2017
+
+>>>  Starting fill edge array
+		Mon Mar 06 13:26:52 2017
+
+>>> Finish fill edge array
+		Mon Mar 06 13:26:53 2017
+
+>>> Mesh Elements: = 70532  Mesh Nodes: = 14599
+		Mon Mar 06 13:26:53 2017
+
+>>> Nbr. of edges = 91650  Nbr. of faces = 147607
+		Mon Mar 06 13:26:53 2017
+
+Finish preparing mesh dataBase		Mon Mar 06 13:26:53 2017
+
+Finish All mesh checking		Mon Mar 06 13:26:53 2017
+
+
+Done with the Main Study Run		Mon Mar 06 13:26:53 2017
+
+Setting Coils parameters...		Mon Mar 06 13:26:53 2017
+
+
+Getting Coils mesh data		Mon Mar 06 13:26:53 2017
+
+Getting Coils mesh data		Mon Mar 06 13:26:53 2017
+
+Checking materials non linear status...		Mon Mar 06 13:26:53 2017
+
+Forming Coils Support Regions		Mon Mar 06 13:26:53 2017
+
+Voltage Driven Coils found. The Multi-core matrix solver is disabled		Mon Mar 06 13:26:53 2017
+
+Preparing linear system...		Mon Mar 06 13:26:53 2017
+
+Factorizing Matrix for Coil 1		Mon Mar 06 13:26:53 2017
+
+
+Done solving conduction for Coil 1		Mon Mar 06 13:26:54 2017
+
+
+Start Prepare Linear system for vector TS		Mon Mar 06 13:26:54 2017
+
+
+Finish Prepare linear system for vector TS		Mon Mar 06 13:26:54 2017
+
+Distributing the currents for Coil 1		Mon Mar 06 13:26:54 2017
+
+Solver in progress...		Mon Mar 06 13:26:54 2017
+
+
+Done Solving Successfully		Mon Mar 06 13:26:56 2017
+
+Distributed Current successfully for Coil 1		Mon Mar 06 13:26:56 2017
+
+Initializing Thermal Solver... 
+		Mon Mar 06 13:26:56 2017
+
+Preparing Thermal solution 
+
+
+>>> Thermal solving 
+		Mon Mar 06 13:26:57 2017
+
+Writting Thermal solution for time 0.000000e+000 
+
+
+Invoking The Main Magnetostatic Solver...		Mon Mar 06 13:26:57 2017
+
+Solver in progress...		Mon Mar 06 13:26:58 2017
+
+
+Done Solving Successfully		Mon Mar 06 13:26:58 2017
+
+Writting Thermal solution for time 1.000000e+000 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:01 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:01 2017
+
+Assembling Thermal Matrices 2.000000e+000
+Solving Thermal Matrices 2.000000e+000
+Writting Thermal solution for time 2.000000e+000 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:02 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:02 2017
+
+Assembling Thermal Matrices 3.000000e+000
+Solving Thermal Matrices 3.000000e+000
+Writting Thermal solution for time 3.000000e+000 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:03 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:03 2017
+
+Assembling Thermal Matrices 4.000000e+000
+Solving Thermal Matrices 4.000000e+000
+Writting Thermal solution for time 4.000000e+000 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:05 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:05 2017
+
+Assembling Thermal Matrices 5.000000e+000
+Solving Thermal Matrices 5.000000e+000
+Writting Thermal solution for time 5.000000e+000 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:06 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:06 2017
+
+Assembling Thermal Matrices 6.000000e+000
+Solving Thermal Matrices 6.000000e+000
+Writting Thermal solution for time 6.000000e+000 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:07 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:07 2017
+
+Assembling Thermal Matrices 7.000000e+000
+Solving Thermal Matrices 7.000000e+000
+Writting Thermal solution for time 7.000000e+000 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:08 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:08 2017
+
+Assembling Thermal Matrices 8.000000e+000
+Solving Thermal Matrices 8.000000e+000
+Writting Thermal solution for time 8.000000e+000 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:09 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:09 2017
+
+Assembling Thermal Matrices 9.000000e+000
+Solving Thermal Matrices 9.000000e+000
+Writting Thermal solution for time 9.000000e+000 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:11 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:11 2017
+
+Assembling Thermal Matrices 1.000000e+001
+Solving Thermal Matrices 1.000000e+001
+Assembling Thermal Matrices 1.100000e+001
+Solving Thermal Matrices 1.100000e+001
+Writting Thermal solution for time 1.100000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:13 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:13 2017
+
+Assembling Thermal Matrices 1.200000e+001
+Solving Thermal Matrices 1.200000e+001
+Writting Thermal solution for time 1.200000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:14 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:14 2017
+
+Assembling Thermal Matrices 1.300000e+001
+Solving Thermal Matrices 1.300000e+001
+Writting Thermal solution for time 1.300000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:16 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:16 2017
+
+Assembling Thermal Matrices 1.400000e+001
+Solving Thermal Matrices 1.400000e+001
+Writting Thermal solution for time 1.400000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:17 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:17 2017
+
+Assembling Thermal Matrices 1.500000e+001
+Solving Thermal Matrices 1.500000e+001
+Solving Thermal Matrices 1.600000e+001
+Writting Thermal solution for time 1.600000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:19 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:19 2017
+
+Assembling Thermal Matrices 1.700000e+001
+Solving Thermal Matrices 1.700000e+001
+Writting Thermal solution for time 1.700000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:21 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:21 2017
+
+Assembling Thermal Matrices 1.800000e+001
+Solving Thermal Matrices 1.800000e+001
+Writting Thermal solution for time 1.800000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:22 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:22 2017
+
+Assembling Thermal Matrices 1.900000e+001
+Solving Thermal Matrices 1.900000e+001
+Writting Thermal solution for time 1.900000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:23 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:23 2017
+
+Assembling Thermal Matrices 2.000000e+001
+Solving Thermal Matrices 2.000000e+001
+Writting Thermal solution for time 2.000000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:24 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:24 2017
+
+Assembling Thermal Matrices 2.100000e+001
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:26 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:26 2017
+
+Assembling Thermal Matrices 2.200000e+001
+Solving Thermal Matrices 2.200000e+001
+Writting Thermal solution for time 2.200000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:27 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:27 2017
+
+Assembling Thermal Matrices 2.300000e+001
+Solving Thermal Matrices 2.300000e+001
+Writting Thermal solution for time 2.300000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:28 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:28 2017
+
+Assembling Thermal Matrices 2.400000e+001
+Solving Thermal Matrices 2.400000e+001
+Writting Thermal solution for time 2.400000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:29 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:29 2017
+
+Assembling Thermal Matrices 2.500000e+001
+Solving Thermal Matrices 2.500000e+001
+Writting Thermal solution for time 2.500000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:30 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:30 2017
+
+Assembling Thermal Matrices 2.600000e+001
+Solving Thermal Matrices 2.600000e+001
+Writting Thermal solution for time 2.600000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:32 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:32 2017
+
+Assembling Thermal Matrices 2.700000e+001
+Solving Thermal Matrices 2.700000e+001
+Writting Thermal solution for time 2.700000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:34 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:34 2017
+
+Assembling Thermal Matrices 2.800000e+001
+Solving Thermal Matrices 2.800000e+001
+Writting Thermal solution for time 2.800000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:35 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:35 2017
+
+Assembling Thermal Matrices 2.900000e+001
+Solving Thermal Matrices 2.900000e+001
+Writting Thermal solution for time 2.900000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:36 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:36 2017
+
+Assembling Thermal Matrices 3.000000e+001
+Solving Thermal Matrices 3.000000e+001
+Writting Thermal solution for time 3.000000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:37 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:37 2017
+
+Assembling Thermal Matrices 3.100000e+001
+Solving Thermal Matrices 3.100000e+001
+Writting Thermal solution for time 3.100000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:39 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:39 2017
+
+Assembling Thermal Matrices 3.200000e+001
+Solving Thermal Matrices 3.200000e+001
+Writting Thermal solution for time 3.200000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:40 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:40 2017
+
+Assembling Thermal Matrices 3.300000e+001
+Solving Thermal Matrices 3.300000e+001
+Writting Thermal solution for time 3.300000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:41 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:41 2017
+
+Assembling Thermal Matrices 3.400000e+001
+Solving Thermal Matrices 3.400000e+001
+Writting Thermal solution for time 3.400000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:42 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:42 2017
+
+Assembling Thermal Matrices 3.500000e+001
+Solving Thermal Matrices 3.500000e+001
+Writting Thermal solution for time 3.500000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:44 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:44 2017
+
+Assembling Thermal Matrices 3.600000e+001
+Solving Thermal Matrices 3.600000e+001
+Writting Thermal solution for time 3.600000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:45 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:45 2017
+
+Assembling Thermal Matrices 3.700000e+001
+Solving Thermal Matrices 3.700000e+001
+Writting Thermal solution for time 3.700000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:47 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:47 2017
+
+Assembling Thermal Matrices 3.800000e+001
+Solving Thermal Matrices 3.800000e+001
+Writting Thermal solution for time 3.800000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:48 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:48 2017
+
+Assembling Thermal Matrices 3.900000e+001
+Solving Thermal Matrices 3.900000e+001
+Writting Thermal solution for time 3.900000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:49 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:49 2017
+
+Assembling Thermal Matrices 4.000000e+001
+Solving Thermal Matrices 4.000000e+001
+Writting Thermal solution for time 4.000000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:50 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:50 2017
+
+Assembling Thermal Matrices 4.100000e+001
+Solving Thermal Matrices 4.100000e+001
+Writting Thermal solution for time 4.100000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:52 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:52 2017
+
+Assembling Thermal Matrices 4.200000e+001
+Solving Thermal Matrices 4.200000e+001
+Writting Thermal solution for time 4.200000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:54 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:54 2017
+
+Assembling Thermal Matrices 4.300000e+001
+Solving Thermal Matrices 4.300000e+001
+Writting Thermal solution for time 4.300000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:27:55 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:55 2017
+
+Assembling Thermal Matrices 4.400000e+001
+Solving Thermal Matrices 4.400000e+001
+Writting Thermal solution for time 4.400000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:56 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:56 2017
+
+Assembling Thermal Matrices 4.500000e+001
+Solving Thermal Matrices 4.500000e+001
+Writting Thermal solution for time 4.500000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:57 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:57 2017
+
+Assembling Thermal Matrices 4.600000e+001
+Solving Thermal Matrices 4.600000e+001
+Writting Thermal solution for time 4.600000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:27:59 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:27:59 2017
+
+Assembling Thermal Matrices 4.700000e+001
+Solving Thermal Matrices 4.700000e+001
+Writting Thermal solution for time 4.700000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:00 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:00 2017
+
+Assembling Thermal Matrices 4.800000e+001
+Solving Thermal Matrices 4.800000e+001
+Writting Thermal solution for time 4.800000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:01 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:01 2017
+
+Assembling Thermal Matrices 4.900000e+001
+Solving Thermal Matrices 4.900000e+001
+Writting Thermal solution for time 4.900000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:02 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:02 2017
+
+Assembling Thermal Matrices 5.000000e+001
+Solving Thermal Matrices 5.000000e+001
+Writting Thermal solution for time 5.000000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:04 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:04 2017
+
+Assembling Thermal Matrices 5.100000e+001
+Solving Thermal Matrices 5.100000e+001
+Writting Thermal solution for time 5.100000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:05 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:05 2017
+
+Assembling Thermal Matrices 5.200000e+001
+Solving Thermal Matrices 5.200000e+001
+Writting Thermal solution for time 5.200000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:06 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:06 2017
+
+Assembling Thermal Matrices 5.300000e+001
+Solving Thermal Matrices 5.300000e+001
+Writting Thermal solution for time 5.300000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:08 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:08 2017
+
+Assembling Thermal Matrices 5.400000e+001
+Solving Thermal Matrices 5.400000e+001
+Writting Thermal solution for time 5.400000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:09 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:09 2017
+
+Assembling Thermal Matrices 5.500000e+001
+Solving Thermal Matrices 5.500000e+001
+Writting Thermal solution for time 5.500000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:10 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:10 2017
+
+Assembling Thermal Matrices 5.600000e+001
+Solving Thermal Matrices 5.600000e+001
+Writting Thermal solution for time 5.600000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:11 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:11 2017
+
+Assembling Thermal Matrices 5.700000e+001
+Solving Thermal Matrices 5.700000e+001
+Writting Thermal solution for time 5.700000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:13 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:13 2017
+
+Assembling Thermal Matrices 5.800000e+001
+Solving Thermal Matrices 5.800000e+001
+Writting Thermal solution for time 5.900000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:15 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:15 2017
+
+Assembling Thermal Matrices 6.000000e+001
+Solving Thermal Matrices 6.000000e+001
+Writting Thermal solution for time 6.000000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:16 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:16 2017
+
+Assembling Thermal Matrices 6.100000e+001
+Solving Thermal Matrices 6.100000e+001
+Writting Thermal solution for time 6.100000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:18 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:18 2017
+
+Assembling Thermal Matrices 6.200000e+001
+Solving Thermal Matrices 6.200000e+001
+Writting Thermal solution for time 6.200000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:19 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:19 2017
+
+Assembling Thermal Matrices 6.300000e+001
+Solving Thermal Matrices 6.300000e+001
+Writting Thermal solution for time 6.300000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:20 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:20 2017
+
+Assembling Thermal Matrices 6.400000e+001
+Solving Thermal Matrices 6.400000e+001
+Writting Thermal solution for time 6.400000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:22 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:22 2017
+
+Assembling Thermal Matrices 6.500000e+001
+Solving Thermal Matrices 6.500000e+001
+Writting Thermal solution for time 6.500000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:23 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:23 2017
+
+Assembling Thermal Matrices 6.600000e+001
+Solving Thermal Matrices 6.600000e+001
+Writting Thermal solution for time 6.600000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:24 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:24 2017
+
+Assembling Thermal Matrices 6.700000e+001
+Solving Thermal Matrices 6.700000e+001
+Writting Thermal solution for time 6.700000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:25 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:25 2017
+
+Assembling Thermal Matrices 6.900000e+001
+Solving Thermal Matrices 6.900000e+001
+Writting Thermal solution for time 6.900000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:28 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:28 2017
+
+Assembling Thermal Matrices 7.000000e+001
+Solving Thermal Matrices 7.000000e+001
+Writting Thermal solution for time 7.000000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:29 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:29 2017
+
+Assembling Thermal Matrices 7.100000e+001
+Solving Thermal Matrices 7.100000e+001
+Writting Thermal solution for time 7.100000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:30 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:30 2017
+
+Assembling Thermal Matrices 7.200000e+001
+Solving Thermal Matrices 7.200000e+001
+Writting Thermal solution for time 7.200000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:32 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:32 2017
+
+Assembling Thermal Matrices 7.300000e+001
+Solving Thermal Matrices 7.400000e+001
+Writting Thermal solution for time 7.400000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:34 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:34 2017
+
+Assembling Thermal Matrices 7.500000e+001
+Solving Thermal Matrices 7.500000e+001
+Writting Thermal solution for time 7.500000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:36 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:36 2017
+
+Assembling Thermal Matrices 7.600000e+001
+Solving Thermal Matrices 7.600000e+001
+Writting Thermal solution for time 7.600000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:37 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:37 2017
+
+Assembling Thermal Matrices 7.700000e+001
+Solving Thermal Matrices 7.700000e+001
+Writting Thermal solution for time 7.700000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:38 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:38 2017
+
+Assembling Thermal Matrices 7.800000e+001
+Assembling Thermal Matrices 7.900000e+001
+Solving Thermal Matrices 7.900000e+001
+Writting Thermal solution for time 7.900000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:41 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:41 2017
+
+Assembling Thermal Matrices 8.000000e+001
+Solving Thermal Matrices 8.000000e+001
+Writting Thermal solution for time 8.000000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:42 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:42 2017
+
+Assembling Thermal Matrices 8.100000e+001
+Solving Thermal Matrices 8.100000e+001
+Writting Thermal solution for time 8.100000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:43 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:43 2017
+
+Assembling Thermal Matrices 8.200000e+001
+Solving Thermal Matrices 8.200000e+001
+Writting Thermal solution for time 8.200000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:45 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:45 2017
+
+Assembling Thermal Matrices 8.300000e+001
+Solving Thermal Matrices 8.300000e+001
+Writting Thermal solution for time 8.300000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:47 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:47 2017
+
+Assembling Thermal Matrices 8.500000e+001
+Solving Thermal Matrices 8.500000e+001
+Writting Thermal solution for time 8.500000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:48 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:48 2017
+
+Assembling Thermal Matrices 8.600000e+001
+Solving Thermal Matrices 8.600000e+001
+Writting Thermal solution for time 8.600000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:50 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:50 2017
+
+Assembling Thermal Matrices 8.700000e+001
+Solving Thermal Matrices 8.700000e+001
+Writting Thermal solution for time 8.700000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:51 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:51 2017
+
+Assembling Thermal Matrices 8.800000e+001
+Solving Thermal Matrices 8.800000e+001
+Writting Thermal solution for time 8.800000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:53 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:53 2017
+
+Assembling Thermal Matrices 8.900000e+001
+Solving Thermal Matrices 8.900000e+001
+Writting Thermal solution for time 8.900000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:54 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:54 2017
+
+Assembling Thermal Matrices 9.000000e+001
+Solving Thermal Matrices 9.000000e+001
+Writting Thermal solution for time 9.000000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:55 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:55 2017
+
+Assembling Thermal Matrices 9.100000e+001
+Solving Thermal Matrices 9.100000e+001
+Writting Thermal solution for time 9.100000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:28:57 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:57 2017
+
+Assembling Thermal Matrices 9.200000e+001
+Solving Thermal Matrices 9.200000e+001
+Writting Thermal solution for time 9.200000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:28:59 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:28:59 2017
+
+Assembling Thermal Matrices 9.400000e+001
+Solving Thermal Matrices 9.400000e+001
+Writting Thermal solution for time 9.400000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:00 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:00 2017
+
+Assembling Thermal Matrices 9.500000e+001
+Solving Thermal Matrices 9.500000e+001
+Writting Thermal solution for time 9.500000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:02 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:02 2017
+
+Assembling Thermal Matrices 9.600000e+001
+Solving Thermal Matrices 9.600000e+001
+Writting Thermal solution for time 9.600000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:03 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:03 2017
+
+Assembling Thermal Matrices 9.700000e+001
+Solving Thermal Matrices 9.700000e+001
+Writting Thermal solution for time 9.700000e+001 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:04 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:04 2017
+
+Assembling Thermal Matrices 9.800000e+001
+Solving Thermal Matrices 9.800000e+001
+Solving Thermal Matrices 9.900000e+001
+Writting Thermal solution for time 9.900000e+001 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:29:07 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:07 2017
+
+Assembling Thermal Matrices 1.000000e+002
+Solving Thermal Matrices 1.000000e+002
+Writting Thermal solution for time 1.000000e+002 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:29:08 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:08 2017
+
+Assembling Thermal Matrices 1.010000e+002
+Solving Thermal Matrices 1.010000e+002
+Writting Thermal solution for time 1.010000e+002 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:29:09 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:09 2017
+
+Assembling Thermal Matrices 1.020000e+002
+Solving Thermal Matrices 1.020000e+002
+Writting Thermal solution for time 1.020000e+002 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:11 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:11 2017
+
+Assembling Thermal Matrices 1.030000e+002
+Solving Thermal Matrices 1.030000e+002
+Writting Thermal solution for time 1.040000e+002 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:13 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:13 2017
+
+Assembling Thermal Matrices 1.050000e+002
+Solving Thermal Matrices 1.050000e+002
+Writting Thermal solution for time 1.050000e+002 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:14 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:14 2017
+
+Assembling Thermal Matrices 1.060000e+002
+Solving Thermal Matrices 1.060000e+002
+Writting Thermal solution for time 1.060000e+002 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:16 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:16 2017
+
+Assembling Thermal Matrices 1.070000e+002
+Solving Thermal Matrices 1.070000e+002
+Writting Thermal solution for time 1.070000e+002 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:17 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:17 2017
+
+Assembling Thermal Matrices 1.080000e+002
+Solving Thermal Matrices 1.080000e+002
+Writting Thermal solution for time 1.080000e+002 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:29:18 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:18 2017
+
+Assembling Thermal Matrices 1.090000e+002
+Solving Thermal Matrices 1.090000e+002
+Writting Thermal solution for time 1.090000e+002 
+
+
+Writting Thermal solution for time 1.100000e+002 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:29:21 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:21 2017
+
+Assembling Thermal Matrices 1.110000e+002
+Solving Thermal Matrices 1.110000e+002
+Writting Thermal solution for time 1.110000e+002 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:29:22 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:22 2017
+
+Assembling Thermal Matrices 1.120000e+002
+Solving Thermal Matrices 1.120000e+002
+Writting Thermal solution for time 1.120000e+002 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:29:23 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:23 2017
+
+Assembling Thermal Matrices 1.130000e+002
+Solving Thermal Matrices 1.130000e+002
+Writting Thermal solution for time 1.130000e+002 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:24 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:24 2017
+
+Assembling Thermal Matrices 1.140000e+002
+Solving Thermal Matrices 1.140000e+002
+Writting Thermal solution for time 1.140000e+002 
+
+
+Writting Thermal solution for time 1.150000e+002 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:27 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:27 2017
+
+Assembling Thermal Matrices 1.160000e+002
+Solving Thermal Matrices 1.160000e+002
+Writting Thermal solution for time 1.160000e+002 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:28 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:28 2017
+
+Assembling Thermal Matrices 1.170000e+002
+Solving Thermal Matrices 1.170000e+002
+Writting Thermal solution for time 1.170000e+002 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:29 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:29 2017
+
+Assembling Thermal Matrices 1.180000e+002
+Solving Thermal Matrices 1.180000e+002
+Writting Thermal solution for time 1.180000e+002 
+
+
+Done Writing Solution.		Mon Mar 06 13:29:31 2017
+
+>>> Thermal solving 
+		Mon Mar 06 13:29:31 2017
+
+Assembling Thermal Matrices 1.190000e+002
+Solving Thermal Matrices 1.190000e+002
+Writting Thermal solution for time 1.190000e+002 
+
+
+Writting Thermal solution for time 1.200000e+002 
+
+
+Cannot open results file!
+Done Writing Solution.		Mon Mar 06 13:29:33 2017
+
+Done Writing Solution.		Mon Mar 06 13:29:33 2017
+
+Done Solving Successfully		Mon Mar 06 13:29:33 2017
+
+
+
+                          Ended on: Mon Mar 06 13:29:33 2017
+
+		Mon Mar 06 13:29:33 2017
+
+CreateSurfaceMesh: End		Mon Mar 06 13:36:33 2017
+
+Insufficient memory for mesher!		Mon Mar 06 13:36:33 2017
+

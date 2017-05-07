@@ -1,0 +1,234 @@
+
+**** 04/02/17 16:06:18 *********** Evaluation PSpice (Nov 1999) **************
+
+ * C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\2Abril.sch
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+* Schematics Version 9.1 - Web Update 1
+* Sun Apr 02 16:06:18 2017
+
+
+
+** Analysis setup **
+.OP 
+.LIB "C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\2Abril.lib"
+
+
+* From [PSPICE NETLIST] section of pspiceev.ini:
+.lib "C:\Users\ameli_000\SkyDrive\Documentos\Schematic1.lib"
+.lib "nom.lib"
+
+.INC "2Abril.net"
+
+**** INCLUDING 2Abril.net ****
+* Schematics Netlist *
+
+
+
+R_R1         $N_0002 $N_0001  470k  
+V_V1         $N_0003 0 12
+RT_R5         0 $N_0002 {(500K*(1-0.9))+.001}
+RB_R5        $N_0002 $N_0003 {(500K*0.9)+.001}
+R_RLOAD         0 $N_0004  15  
+D_D1         $N_0004 $N_0001 Dbreak 
+M_M1         $N_0003 $N_0001 $N_0004 $N_0004 IRF150-X
+
+**** RESUMING 2Abril.cir ****
+.INC "2Abril.als"
+
+
+
+**** INCLUDING 2Abril.als ****
+* Schematics Aliases *
+
+.ALIASES
+R_R1            R1(1=$N_0002 2=$N_0001 )
+V_V1            V1(+=$N_0003 -=0 )
+RT_R5            R5(1=0 t=$N_0002 )
+RB_R5           R5(t=$N_0002 2=$N_0003 )
+R_RLOAD          RLOAD(1=0 2=$N_0004 )
+D_D1            D1(1=$N_0004 2=$N_0001 )
+M_M1            M1(d=$N_0003 g=$N_0001 s=$N_0004 s=$N_0004 )
+.ENDALIASES
+
+
+**** RESUMING 2Abril.cir ****
+.probe
+
+
+.END
+
+**** 04/02/17 16:06:18 *********** Evaluation PSpice (Nov 1999) **************
+
+ * C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\2Abril.sch
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               Dbreak          
+          IS   10.000000E-15 
+         ISR  100.000000E-12 
+          BV   12            
+         IBV    2.000000E-03 
+          RS     .1          
+          TT    5.000000E-09 
+         CJO  100.000000E-15 
+          VJ     .75         
+           M     .3333       
+
+
+**** 04/02/17 16:06:18 *********** Evaluation PSpice (Nov 1999) **************
+
+ * C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\2Abril.sch
+
+
+ ****     MOSFET MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               IRF150-X        
+               NMOS            
+       LEVEL    3            
+           L    2.000000E-06 
+           W     .3          
+         VTO    2.831        
+          KP   20.530000E-06 
+       GAMMA    0            
+         PHI     .6          
+      LAMBDA    0            
+          RD    1.031000E-03 
+          RS    1.624000E-03 
+          RG   13.89         
+         RDS     .16         
+          IS  194.000000E-18 
+          JS    0            
+          PB     .8          
+        PBSW     .8          
+         CBD   60.000000E-12 
+          CJ    0            
+        CJSW    0            
+          TT  288.000000E-09 
+        CGSO    9.027000E-09 
+        CGDO    1.679000E-09 
+        CGBO    0            
+         TOX  100.000000E-09 
+          XJ    0            
+       UCRIT   10.000000E+03 
+       DELTA    0            
+         ETA    0            
+       KAPPA    1.000000E-12 
+      DIOMOD    1            
+         VFB    0            
+        LETA    0            
+        WETA    0            
+          U0    0            
+        TEMP    0            
+         VDD    0            
+       XPART    0            
+
+
+**** 04/02/17 16:06:18 *********** Evaluation PSpice (Nov 1999) **************
+
+ * C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\2Abril.sch
+
+
+ ****     SMALL SIGNAL BIAS SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+($N_0001)   11.3220                   ($N_0002)    2.0844                       
+
+($N_0003)   12.0000                   ($N_0004)   11.8710                   
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -7.915E-01
+
+    TOTAL POWER DISSIPATION   9.50E+00  WATTS
+
+
+**** 04/02/17 16:06:18 *********** Evaluation PSpice (Nov 1999) **************
+
+ * C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\2Abril.sch
+
+
+ ****     OPERATING POINT INFORMATION      TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+
+
+
+**** DIODES
+
+
+NAME         D_D1      
+MODEL        Dbreak    
+ID           1.97E-05 
+VD           5.50E-01 
+REQ          1.42E+03 
+CAP          3.66E-12 
+
+
+**** MOSFETS
+
+
+NAME         M_M1      
+MODEL        IRF150-X  
+ID           7.91E-01 
+VGS         -5.50E-01 
+VDS          1.29E-01 
+VBS          0.00E+00 
+VTH          2.83E+00 
+VDSAT        0.00E+00 
+Lin0/Sat1   -1.00E+00 
+if          -1.00E+00 
+ir          -1.00E+00 
+TAU         -1.00E+00 
+GM           0.00E+00 
+GDS          6.25E+00 
+GMB          0.00E+00 
+CBD          5.57E-11 
+CBS          2.90E-19 
+CGSOV        2.71E-09 
+CGDOV        5.04E-10 
+CGBOV        0.00E+00 
+CGS          0.00E+00 
+CGD          0.00E+00 
+CGB          2.07E-10 
+
+          JOB CONCLUDED
+
+          TOTAL JOB TIME             .06
+

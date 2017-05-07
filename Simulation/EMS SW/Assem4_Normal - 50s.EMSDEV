@@ -1,0 +1,97 @@
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+ 
+                          Started on: Mon Mar 06 00:23:24 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   126 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   15          Dimension 101147  Non_Zeroes 1634005  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058  Coil 1
+ Solving Step III                    00:00:02 
+ 
+
+                          Ended on: Mon Mar 06 00:23:31 2017
+
+
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+ 
+                          Started on: Mon Mar 06 00:24:25 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   120 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   21          Dimension 101147  Non_Zeroes 1634005  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:00 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Mon Mar 06 00:25:26 2017
+
+

@@ -1,0 +1,156 @@
+
+**** 03/20/17 14:15:58 *********** Evaluation PSpice (Nov 1999) **************
+
+ * C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\Schematic1.sch
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+* Schematics Version 9.1 - Web Update 1
+* Mon Mar 20 14:15:53 2017
+
+
+
+** Analysis setup **
+.tran 0ns 10us
+
+
+* From [PSPICE NETLIST] section of pspiceev.ini:
+.lib "C:\Users\ameli_000\Google Drive\Universidade\_E4\irfp450.lib"
+.lib "C:\Users\ameli_000\SkyDrive\Documentos\Schematic1.lib"
+.lib "nom.lib"
+
+.INC "Schematic1.net"
+
+**** INCLUDING Schematic1.net ****
+* Schematics Netlist *
+
+
+
+L_L2         $N_0001 Vout  3.5mH  
+V_V1         $N_0001 0 12
+V_PWM         $N_0002 0  
++PULSE 0 10 10n 100p 100p 0.5u 1u
+M_M2         Vout $N_0003 0 0 IRF150
+R_R1         $N_0002 $N_0003  1M  
+
+**** RESUMING Schematic1.cir ****
+.INC "Schematic1.als"
+
+
+
+**** INCLUDING Schematic1.als ****
+* Schematics Aliases *
+
+.ALIASES
+L_L2            L2(1=$N_0001 2=Vout )
+V_V1            V1(+=$N_0001 -=0 )
+V_PWM           PWM(+=$N_0002 -=0 )
+M_M2            M2(d=Vout g=$N_0003 s=0 s=0 )
+R_R1            R1(1=$N_0002 2=$N_0003 )
+_    _(Vout=Vout)
+.ENDALIASES
+
+
+**** RESUMING Schematic1.cir ****
+.probe
+
+
+.END
+
+**** 03/20/17 14:15:58 *********** Evaluation PSpice (Nov 1999) **************
+
+ * C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\Schematic1.sch
+
+
+ ****     MOSFET MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               IRF150          
+               NMOS            
+       LEVEL    3            
+           L    2.000000E-06 
+           W     .3          
+         VTO    2.831        
+          KP   20.530000E-06 
+       GAMMA    0            
+         PHI     .6          
+      LAMBDA    0            
+          RD    1.031000E-03 
+          RS    1.624000E-03 
+          RG   13.89         
+         RDS  444.400000E+03 
+          IS  194.000000E-18 
+          JS    0            
+          PB     .8          
+        PBSW     .8          
+         CBD    3.229000E-09 
+          CJ    0            
+        CJSW    0            
+          TT  288.000000E-09 
+        CGSO    9.027000E-09 
+        CGDO    1.679000E-09 
+        CGBO    0            
+         TOX  100.000000E-09 
+          XJ    0            
+       UCRIT   10.000000E+03 
+       DELTA    0            
+         ETA    0            
+       KAPPA    1.000000E-12 
+      DIOMOD    1            
+         VFB    0            
+        LETA    0            
+        WETA    0            
+          U0    0            
+        TEMP    0            
+         VDD    0            
+       XPART    0            
+
+
+**** 03/20/17 14:15:58 *********** Evaluation PSpice (Nov 1999) **************
+
+ * C:\Users\ameli_000\Google Drive\Universidade\_E4\Regulador\Schematic1.sch
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+( Vout)   12.0000  ($N_0001)   12.0000                   ($N_0002)    0.0000    
+
+($N_0003)    0.0000                   
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -2.700E-05
+    V_PWM        0.000E+00
+
+    TOTAL POWER DISSIPATION   3.24E-04  WATTS
+
+
+
+          JOB CONCLUDED
+
+          TOTAL JOB TIME             .23
+

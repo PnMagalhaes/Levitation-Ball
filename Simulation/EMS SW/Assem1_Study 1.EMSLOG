@@ -1,0 +1,1455 @@
+﻿* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+*                                                                              
+*                                                                              
+*               E l e c t r o M a g n e t i c W o r k s   I n c.              *
+*                                                                              
+*                                                                              
+*               EMS 2016 x64 SP2.2 (2016/065)                                  
+*                                                                              
+*                                                                              
+*                          =<  Magnetostatic Module  >=                        
+*                                                                              
+*                                                                              
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+
+* * * * * * * * * * * * *| Motion Time Step: 0.000000  |* * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 19:38:21 2017
+
+		Sun Mar 05 19:38:21 2017
+
+
+Initializing solver...		Sun Mar 05 19:38:21 2017
+
+
+Study Run...		Sun Mar 05 19:38:21 2017
+
+Checking Load Restraint mesh		Sun Mar 05 19:38:21 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 19:38:21 2017
+
+Nbr mesh faces found the Boundary Condition Tangential Flux - 1 is 2002		Sun Mar 05 19:38:21 2017
+
+Checking coils mesh		Sun Mar 05 19:38:21 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 19:38:21 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 157716		Sun Mar 05 19:38:21 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 181		Sun Mar 05 19:38:21 2017
+
+Preparing mesh database		Sun Mar 05 19:38:21 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 19:38:21 2017
+
+Filling the elements array		Sun Mar 05 19:38:21 2017
+
+
+Checking mesh validity!		Sun Mar 05 19:38:21 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 19:38:21 2017
+
+>>> Finish fill edge array
+		Sun Mar 05 19:38:22 2017
+
+>>> Mesh Elements: = 111980  Mesh Nodes: = 21483
+		Sun Mar 05 19:38:22 2017
+
+>>> Nbr. of edges = 138952  Nbr. of faces = 229452
+		Sun Mar 05 19:38:22 2017
+
+Finish preparing mesh dataBase		Sun Mar 05 19:38:22 2017
+
+Checking Force torque mesh		Sun Mar 05 19:38:22 2017
+
+Finish All mesh checking		Sun Mar 05 19:38:22 2017
+
+
+Done with the Main Study Run		Sun Mar 05 19:38:22 2017
+
+Setting Coils parameters...		Sun Mar 05 19:38:22 2017
+
+
+Getting Coils mesh data		Sun Mar 05 19:38:23 2017
+
+Getting Coils mesh data		Sun Mar 05 19:38:23 2017
+
+Checking materials non linear status...		Sun Mar 05 19:38:23 2017
+
+Forming Coils Support Regions		Sun Mar 05 19:38:23 2017
+
+Voltage Driven Coils found. The Multi-core matrix solver is disabled		Sun Mar 05 19:38:23 2017
+
+Preparing linear system...		Sun Mar 05 19:38:23 2017
+
+Factorizing Matrix for Coil 1		Sun Mar 05 19:38:23 2017
+
+
+Done solving conduction for Coil 1		Sun Mar 05 19:38:23 2017
+
+
+Start Prepare Linear system for vector TS		Sun Mar 05 19:38:23 2017
+
+
+Finish Prepare linear system for vector TS		Sun Mar 05 19:38:24 2017
+
+Distributing the currents for Coil 1		Sun Mar 05 19:38:25 2017
+
+Solver in progress...		Sun Mar 05 19:38:25 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:38:25 2017
+
+Distributed Current successfully for Coil 1		Sun Mar 05 19:38:25 2017
+
+Invoking The Main Magnetostatic Solver...		Sun Mar 05 19:38:25 2017
+
+Solver in progress...		Sun Mar 05 19:38:26 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:38:26 2017
+
+Computing force and torques quantities...		Sun Mar 05 19:38:26 2017
+
+Done Writing Solution.		Sun Mar 05 19:38:29 2017
+
+Done Solving Successfully		Sun Mar 05 19:38:29 2017
+
+
+
+                          Ended on: Sun Mar 05 19:38:29 2017
+
+		Sun Mar 05 19:38:29 2017
+
+
+ Force direction  x = -0.000000e+000, y = 1.000000e+000, z = -0.000000e+000, SW Mechanical Force = 0.000000e+000, Magnetic Force 0.000000e+000, 0.000000e+000, 0.000000e+000, Force to return to SW 0.000000e+000 		Sun Mar 05 19:38:29 2017
+
+Updating mesh with motion...		Sun Mar 05 19:38:30 2017
+
+The following component(s) detected as moving:
+mass-1
+		Sun Mar 05 19:38:30 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+		Sun Mar 05 19:38:30 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+outerAir-1
+		Sun Mar 05 19:38:30 2017
+
+
+
+ Componennt coil-1 detected as Band		Sun Mar 05 19:38:30 2017
+
+
+
+    Recreating volume mesh of body number 0 Component coil-1		Sun Mar 05 19:38:30 2017
+
+
+
+* * * * * * * * * * * * *| Motion Time Step: 0.100000  |* * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 19:38:30 2017
+
+		Sun Mar 05 19:38:30 2017
+
+
+Initializing solver...		Sun Mar 05 19:38:30 2017
+
+
+Study Run...		Sun Mar 05 19:38:30 2017
+
+Checking Load Restraint mesh		Sun Mar 05 19:38:30 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 19:38:30 2017
+
+Nbr mesh faces found the Boundary Condition Tangential Flux - 1 is 2002		Sun Mar 05 19:38:30 2017
+
+Checking coils mesh		Sun Mar 05 19:38:30 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 19:38:30 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 157716		Sun Mar 05 19:38:30 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 181		Sun Mar 05 19:38:30 2017
+
+Preparing mesh database		Sun Mar 05 19:38:30 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 19:38:30 2017
+
+Filling the elements array		Sun Mar 05 19:38:30 2017
+
+
+Checking mesh validity!		Sun Mar 05 19:38:30 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 19:38:30 2017
+
+>>> Finish fill edge array
+		Sun Mar 05 19:38:32 2017
+
+>>> Mesh Elements: = 111980  Mesh Nodes: = 21483
+		Sun Mar 05 19:38:32 2017
+
+>>> Nbr. of edges = 138952  Nbr. of faces = 229452
+		Sun Mar 05 19:38:32 2017
+
+Finish preparing mesh dataBase		Sun Mar 05 19:38:32 2017
+
+Checking Force torque mesh		Sun Mar 05 19:38:32 2017
+
+Finish All mesh checking		Sun Mar 05 19:38:32 2017
+
+
+Done with the Main Study Run		Sun Mar 05 19:38:32 2017
+
+Setting Coils parameters...		Sun Mar 05 19:38:32 2017
+
+
+Getting Coils mesh data		Sun Mar 05 19:38:32 2017
+
+Getting Coils mesh data		Sun Mar 05 19:38:32 2017
+
+Checking materials non linear status...		Sun Mar 05 19:38:32 2017
+
+Forming Coils Support Regions		Sun Mar 05 19:38:32 2017
+
+Voltage Driven Coils found. The Multi-core matrix solver is disabled		Sun Mar 05 19:38:32 2017
+
+Preparing linear system...		Sun Mar 05 19:38:32 2017
+
+Factorizing Matrix for Coil 1		Sun Mar 05 19:38:32 2017
+
+
+Done solving conduction for Coil 1		Sun Mar 05 19:38:33 2017
+
+
+Start Prepare Linear system for vector TS		Sun Mar 05 19:38:33 2017
+
+
+Finish Prepare linear system for vector TS		Sun Mar 05 19:38:34 2017
+
+Distributing the currents for Coil 1		Sun Mar 05 19:38:34 2017
+
+Solver in progress...		Sun Mar 05 19:38:34 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:38:35 2017
+
+Distributed Current successfully for Coil 1		Sun Mar 05 19:38:35 2017
+
+Invoking The Main Magnetostatic Solver...		Sun Mar 05 19:38:35 2017
+
+Solver in progress...		Sun Mar 05 19:38:37 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:38:37 2017
+
+Computing postprocessor quantities...		Sun Mar 05 19:38:38 2017
+
+Writing Solution...		Sun Mar 05 19:38:38 2017
+
+Done Writing Solution.		Sun Mar 05 19:38:39 2017
+
+Done Solving Successfully		Sun Mar 05 19:38:39 2017
+
+
+
+                          Ended on: Sun Mar 05 19:38:39 2017
+
+		Sun Mar 05 19:38:39 2017
+
+
+ Force direction  x = -0.000000e+000, y = 1.000000e+000, z = -0.000000e+000, SW Mechanical Force = 0.000000e+000, Magnetic Force 0.000000e+000, 0.000000e+000, 0.000000e+000, Force to return to SW 0.000000e+000 		Sun Mar 05 19:38:39 2017
+
+Updating mesh with motion...		Sun Mar 05 19:38:39 2017
+
+The following component(s) detected as moving:
+mass-1
+		Sun Mar 05 19:38:39 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+		Sun Mar 05 19:38:39 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+outerAir-1
+		Sun Mar 05 19:38:39 2017
+
+
+
+ Componennt coil-1 detected as Band		Sun Mar 05 19:38:39 2017
+
+
+
+    Recreating volume mesh of body number 0 Component coil-1		Sun Mar 05 19:38:39 2017
+
+
+
+* * * * * * * * * * * * *| Motion Time Step: 0.200000  |* * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 19:38:40 2017
+
+		Sun Mar 05 19:38:40 2017
+
+
+Initializing solver...		Sun Mar 05 19:38:40 2017
+
+
+Study Run...		Sun Mar 05 19:38:40 2017
+
+Checking Load Restraint mesh		Sun Mar 05 19:38:40 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 19:38:40 2017
+
+Nbr mesh faces found the Boundary Condition Tangential Flux - 1 is 2002		Sun Mar 05 19:38:40 2017
+
+Checking coils mesh		Sun Mar 05 19:38:40 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 19:38:40 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 157716		Sun Mar 05 19:38:40 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 181		Sun Mar 05 19:38:40 2017
+
+Preparing mesh database		Sun Mar 05 19:38:40 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 19:38:40 2017
+
+Filling the elements array		Sun Mar 05 19:38:40 2017
+
+
+Checking mesh validity!		Sun Mar 05 19:38:40 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 19:38:40 2017
+
+>>> Finish fill edge array
+		Sun Mar 05 19:38:41 2017
+
+>>> Mesh Elements: = 111980  Mesh Nodes: = 21483
+		Sun Mar 05 19:38:41 2017
+
+>>> Nbr. of edges = 138952  Nbr. of faces = 229452
+		Sun Mar 05 19:38:41 2017
+
+Finish preparing mesh dataBase		Sun Mar 05 19:38:41 2017
+
+Checking Force torque mesh		Sun Mar 05 19:38:41 2017
+
+Finish All mesh checking		Sun Mar 05 19:38:41 2017
+
+
+Done with the Main Study Run		Sun Mar 05 19:38:41 2017
+
+Setting Coils parameters...		Sun Mar 05 19:38:41 2017
+
+
+Getting Coils mesh data		Sun Mar 05 19:38:41 2017
+
+Getting Coils mesh data		Sun Mar 05 19:38:41 2017
+
+Checking materials non linear status...		Sun Mar 05 19:38:41 2017
+
+Forming Coils Support Regions		Sun Mar 05 19:38:41 2017
+
+Voltage Driven Coils found. The Multi-core matrix solver is disabled		Sun Mar 05 19:38:41 2017
+
+Preparing linear system...		Sun Mar 05 19:38:41 2017
+
+Factorizing Matrix for Coil 1		Sun Mar 05 19:38:41 2017
+
+
+Done solving conduction for Coil 1		Sun Mar 05 19:38:42 2017
+
+
+Start Prepare Linear system for vector TS		Sun Mar 05 19:38:42 2017
+
+
+Finish Prepare linear system for vector TS		Sun Mar 05 19:38:43 2017
+
+Distributing the currents for Coil 1		Sun Mar 05 19:38:43 2017
+
+Solver in progress...		Sun Mar 05 19:38:43 2017
+
+Solver in progress...		Sun Mar 05 19:38:45 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:38:45 2017
+
+Computing force and torques quantities...		Sun Mar 05 19:38:45 2017
+
+Solver in progress...		Sun Mar 05 19:38:46 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:38:46 2017
+
+Computing postprocessor quantities...		Sun Mar 05 19:38:47 2017
+
+Writing Solution...		Sun Mar 05 19:38:47 2017
+
+Done Writing Solution.		Sun Mar 05 19:38:48 2017
+
+Done Solving Successfully		Sun Mar 05 19:38:48 2017
+
+
+
+                          Ended on: Sun Mar 05 19:38:48 2017
+
+		Sun Mar 05 19:38:48 2017
+
+
+ Force direction  x = -0.000000e+000, y = 1.000000e+000, z = -0.000000e+000, SW Mechanical Force = 0.000000e+000, Magnetic Force 0.000000e+000, 0.000000e+000, 0.000000e+000, Force to return to SW 0.000000e+000 		Sun Mar 05 19:38:48 2017
+
+Updating mesh with motion...		Sun Mar 05 19:38:48 2017
+
+The following component(s) detected as moving:
+mass-1
+		Sun Mar 05 19:38:48 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+		Sun Mar 05 19:38:48 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+outerAir-1
+		Sun Mar 05 19:38:48 2017
+
+
+
+ Componennt coil-1 detected as Band		Sun Mar 05 19:38:48 2017
+
+
+
+    Recreating volume mesh of body number 0 Component coil-1		Sun Mar 05 19:38:48 2017
+
+
+
+* * * * * * * * * * * * *| Motion Time Step: 0.300000  |* * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 19:38:49 2017
+
+		Sun Mar 05 19:38:49 2017
+
+
+Initializing solver...		Sun Mar 05 19:38:49 2017
+
+
+Study Run...		Sun Mar 05 19:38:49 2017
+
+Checking Load Restraint mesh		Sun Mar 05 19:38:49 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 19:38:49 2017
+
+Nbr mesh faces found the Boundary Condition Tangential Flux - 1 is 2002		Sun Mar 05 19:38:49 2017
+
+Checking coils mesh		Sun Mar 05 19:38:49 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 19:38:49 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 157716		Sun Mar 05 19:38:49 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 181		Sun Mar 05 19:38:49 2017
+
+Preparing mesh database		Sun Mar 05 19:38:49 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 19:38:49 2017
+
+Filling the elements array		Sun Mar 05 19:38:49 2017
+
+
+Checking mesh validity!		Sun Mar 05 19:38:49 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 19:38:49 2017
+
+
+Done solving conduction for Coil 1		Sun Mar 05 19:38:51 2017
+
+
+Start Prepare Linear system for vector TS		Sun Mar 05 19:38:51 2017
+
+
+Finish Prepare linear system for vector TS		Sun Mar 05 19:38:52 2017
+
+Distributing the currents for Coil 1		Sun Mar 05 19:38:52 2017
+
+Solver in progress...		Sun Mar 05 19:38:52 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:38:53 2017
+
+Distributed Current successfully for Coil 1		Sun Mar 05 19:38:53 2017
+
+Invoking The Main Magnetostatic Solver...		Sun Mar 05 19:38:53 2017
+
+Solver in progress...		Sun Mar 05 19:38:54 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:38:54 2017
+
+Computing force and torques quantities...		Sun Mar 05 19:38:54 2017
+
+Solver in progress...		Sun Mar 05 19:38:55 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:38:55 2017
+
+Computing postprocessor quantities...		Sun Mar 05 19:38:56 2017
+
+Writing Solution...		Sun Mar 05 19:38:56 2017
+
+
+
+* * * * * * * * * * * * *| Motion Time Step: 0.400000  |* * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 19:38:57 2017
+
+		Sun Mar 05 19:38:57 2017
+
+Unable to create log file!		Sun Mar 05 19:38:57 2017
+
+
+Initializing solver...		Sun Mar 05 19:38:57 2017
+
+
+Study Run...		Sun Mar 05 19:38:57 2017
+
+Checking Load Restraint mesh		Sun Mar 05 19:38:57 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 19:38:57 2017
+
+Nbr mesh faces found the Boundary Condition Tangential Flux - 1 is 2002		Sun Mar 05 19:38:57 2017
+
+Checking coils mesh		Sun Mar 05 19:38:57 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 19:38:57 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 157716		Sun Mar 05 19:38:57 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 181		Sun Mar 05 19:38:57 2017
+
+Preparing mesh database		Sun Mar 05 19:38:57 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 19:38:57 2017
+
+Filling the elements array		Sun Mar 05 19:38:57 2017
+
+
+Checking mesh validity!		Sun Mar 05 19:38:57 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 19:38:58 2017
+
+>>> Finish fill edge array
+		Sun Mar 05 19:38:59 2017
+
+>>> Mesh Elements: = 111980  Mesh Nodes: = 21483
+		Sun Mar 05 19:38:59 2017
+
+>>> Nbr. of edges = 138952  Nbr. of faces = 229452
+		Sun Mar 05 19:38:59 2017
+
+Finish preparing mesh dataBase		Sun Mar 05 19:38:59 2017
+
+Checking Force torque mesh		Sun Mar 05 19:38:59 2017
+
+Finish All mesh checking		Sun Mar 05 19:38:59 2017
+
+
+Done with the Main Study Run		Sun Mar 05 19:38:59 2017
+
+Setting Coils parameters...		Sun Mar 05 19:38:59 2017
+
+
+Getting Coils mesh data		Sun Mar 05 19:38:59 2017
+
+Getting Coils mesh data		Sun Mar 05 19:38:59 2017
+
+Checking materials non linear status...		Sun Mar 05 19:38:59 2017
+
+Forming Coils Support Regions		Sun Mar 05 19:38:59 2017
+
+Voltage Driven Coils found. The Multi-core matrix solver is disabled		Sun Mar 05 19:38:59 2017
+
+Preparing linear system...		Sun Mar 05 19:38:59 2017
+
+Factorizing Matrix for Coil 1		Sun Mar 05 19:38:59 2017
+
+
+Done solving conduction for Coil 1		Sun Mar 05 19:39:00 2017
+
+
+Start Prepare Linear system for vector TS		Sun Mar 05 19:39:00 2017
+
+
+Finish Prepare linear system for vector TS		Sun Mar 05 19:39:01 2017
+
+Distributing the currents for Coil 1		Sun Mar 05 19:39:01 2017
+
+Solver in progress...		Sun Mar 05 19:39:01 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:01 2017
+
+Distributed Current successfully for Coil 1		Sun Mar 05 19:39:01 2017
+
+Invoking The Main Magnetostatic Solver...		Sun Mar 05 19:39:01 2017
+
+Solver in progress...		Sun Mar 05 19:39:02 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:02 2017
+
+Computing force and torques quantities...		Sun Mar 05 19:39:02 2017
+
+Solver in progress...		Sun Mar 05 19:39:04 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:04 2017
+
+Computing postprocessor quantities...		Sun Mar 05 19:39:04 2017
+
+Writing Solution...		Sun Mar 05 19:39:04 2017
+
+Done Writing Solution.		Sun Mar 05 19:39:05 2017
+
+Done Solving Successfully		Sun Mar 05 19:39:05 2017
+
+
+
+                          Ended on: Sun Mar 05 19:39:05 2017
+
+		Sun Mar 05 19:39:05 2017
+
+
+ Force direction  x = -0.000000e+000, y = 1.000000e+000, z = -0.000000e+000, SW Mechanical Force = 0.000000e+000, Magnetic Force 0.000000e+000, 0.000000e+000, 0.000000e+000, Force to return to SW 0.000000e+000 		Sun Mar 05 19:39:05 2017
+
+Updating mesh with motion...		Sun Mar 05 19:39:06 2017
+
+The following component(s) detected as moving:
+mass-1
+		Sun Mar 05 19:39:06 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+		Sun Mar 05 19:39:06 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+outerAir-1
+		Sun Mar 05 19:39:06 2017
+
+
+
+ Componennt coil-1 detected as Band		Sun Mar 05 19:39:06 2017
+
+
+
+    Recreating volume mesh of body number 0 Component coil-1		Sun Mar 05 19:39:06 2017
+
+
+
+* * * * * * * * * * * * *| Motion Time Step: 0.500000  |* * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 19:39:06 2017
+
+		Sun Mar 05 19:39:06 2017
+
+
+Initializing solver...		Sun Mar 05 19:39:06 2017
+
+
+Study Run...		Sun Mar 05 19:39:06 2017
+
+Checking Load Restraint mesh		Sun Mar 05 19:39:06 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 19:39:06 2017
+
+Nbr mesh faces found the Boundary Condition Tangential Flux - 1 is 2002		Sun Mar 05 19:39:06 2017
+
+Checking coils mesh		Sun Mar 05 19:39:06 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 19:39:06 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 157716		Sun Mar 05 19:39:06 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 181		Sun Mar 05 19:39:06 2017
+
+Preparing mesh database		Sun Mar 05 19:39:06 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 19:39:06 2017
+
+Filling the elements array		Sun Mar 05 19:39:06 2017
+
+
+Checking mesh validity!		Sun Mar 05 19:39:06 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 19:39:06 2017
+
+>>> Finish fill edge array
+		Sun Mar 05 19:39:08 2017
+
+>>> Mesh Elements: = 111980  Mesh Nodes: = 21483
+		Sun Mar 05 19:39:08 2017
+
+>>> Nbr. of edges = 138952  Nbr. of faces = 229452
+		Sun Mar 05 19:39:08 2017
+
+Finish preparing mesh dataBase		Sun Mar 05 19:39:08 2017
+
+Checking Force torque mesh		Sun Mar 05 19:39:08 2017
+
+Finish All mesh checking		Sun Mar 05 19:39:08 2017
+
+
+Done with the Main Study Run		Sun Mar 05 19:39:08 2017
+
+Setting Coils parameters...		Sun Mar 05 19:39:08 2017
+
+
+Getting Coils mesh data		Sun Mar 05 19:39:08 2017
+
+Getting Coils mesh data		Sun Mar 05 19:39:08 2017
+
+Checking materials non linear status...		Sun Mar 05 19:39:08 2017
+
+Forming Coils Support Regions		Sun Mar 05 19:39:08 2017
+
+Voltage Driven Coils found. The Multi-core matrix solver is disabled		Sun Mar 05 19:39:08 2017
+
+Preparing linear system...		Sun Mar 05 19:39:08 2017
+
+Factorizing Matrix for Coil 1		Sun Mar 05 19:39:08 2017
+
+
+Done solving conduction for Coil 1		Sun Mar 05 19:39:09 2017
+
+
+Start Prepare Linear system for vector TS		Sun Mar 05 19:39:09 2017
+
+
+Finish Prepare linear system for vector TS		Sun Mar 05 19:39:10 2017
+
+Distributing the currents for Coil 1		Sun Mar 05 19:39:10 2017
+
+Solver in progress...		Sun Mar 05 19:39:10 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:10 2017
+
+Distributed Current successfully for Coil 1		Sun Mar 05 19:39:10 2017
+
+Invoking The Main Magnetostatic Solver...		Sun Mar 05 19:39:10 2017
+
+Solver in progress...		Sun Mar 05 19:39:11 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:11 2017
+
+Computing force and torques quantities...		Sun Mar 05 19:39:11 2017
+
+Solver in progress...		Sun Mar 05 19:39:13 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:13 2017
+
+Computing postprocessor quantities...		Sun Mar 05 19:39:13 2017
+
+Writing Solution...		Sun Mar 05 19:39:13 2017
+
+
+
+                          Ended on: Sun Mar 05 19:39:14 2017
+
+		Sun Mar 05 19:39:14 2017
+
+
+ Force direction  x = -0.000000e+000, y = 1.000000e+000, z = -0.000000e+000, SW Mechanical Force = 0.000000e+000, Magnetic Force 0.000000e+000, 0.000000e+000, 0.000000e+000, Force to return to SW 0.000000e+000 		Sun Mar 05 19:39:14 2017
+
+Updating mesh with motion...		Sun Mar 05 19:39:15 2017
+
+The following component(s) detected as moving:
+mass-1
+		Sun Mar 05 19:39:15 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+		Sun Mar 05 19:39:15 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+outerAir-1
+		Sun Mar 05 19:39:15 2017
+
+
+
+ Componennt coil-1 detected as Band		Sun Mar 05 19:39:15 2017
+
+
+
+    Recreating volume mesh of body number 0 Component coil-1		Sun Mar 05 19:39:15 2017
+
+
+
+* * * * * * * * * * * * *| Motion Time Step: 0.600000  |* * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 19:39:15 2017
+
+		Sun Mar 05 19:39:15 2017
+
+
+Initializing solver...		Sun Mar 05 19:39:15 2017
+
+
+Study Run...		Sun Mar 05 19:39:15 2017
+
+Checking Load Restraint mesh		Sun Mar 05 19:39:15 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 19:39:15 2017
+
+Nbr mesh faces found the Boundary Condition Tangential Flux - 1 is 2002		Sun Mar 05 19:39:15 2017
+
+Checking coils mesh		Sun Mar 05 19:39:15 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 19:39:15 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 157716		Sun Mar 05 19:39:15 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 181		Sun Mar 05 19:39:15 2017
+
+Preparing mesh database		Sun Mar 05 19:39:15 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 19:39:15 2017
+
+Filling the elements array		Sun Mar 05 19:39:15 2017
+
+
+Checking mesh validity!		Sun Mar 05 19:39:15 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 19:39:15 2017
+
+>>> Finish fill edge array
+		Sun Mar 05 19:39:17 2017
+
+>>> Mesh Elements: = 111980  Mesh Nodes: = 21483
+		Sun Mar 05 19:39:17 2017
+
+>>> Nbr. of edges = 138952  Nbr. of faces = 229452
+		Sun Mar 05 19:39:17 2017
+
+Finish preparing mesh dataBase		Sun Mar 05 19:39:17 2017
+
+Checking Force torque mesh		Sun Mar 05 19:39:17 2017
+
+Finish All mesh checking		Sun Mar 05 19:39:17 2017
+
+
+Done with the Main Study Run		Sun Mar 05 19:39:17 2017
+
+Setting Coils parameters...		Sun Mar 05 19:39:17 2017
+
+
+Getting Coils mesh data		Sun Mar 05 19:39:17 2017
+
+Getting Coils mesh data		Sun Mar 05 19:39:17 2017
+
+Checking materials non linear status...		Sun Mar 05 19:39:17 2017
+
+Forming Coils Support Regions		Sun Mar 05 19:39:17 2017
+
+Voltage Driven Coils found. The Multi-core matrix solver is disabled		Sun Mar 05 19:39:17 2017
+
+Preparing linear system...		Sun Mar 05 19:39:17 2017
+
+Factorizing Matrix for Coil 1		Sun Mar 05 19:39:17 2017
+
+
+Done solving conduction for Coil 1		Sun Mar 05 19:39:17 2017
+
+
+Start Prepare Linear system for vector TS		Sun Mar 05 19:39:18 2017
+
+
+Finish Prepare linear system for vector TS		Sun Mar 05 19:39:18 2017
+
+Distributing the currents for Coil 1		Sun Mar 05 19:39:19 2017
+
+Solver in progress...		Sun Mar 05 19:39:19 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:19 2017
+
+Distributed Current successfully for Coil 1		Sun Mar 05 19:39:19 2017
+
+Invoking The Main Magnetostatic Solver...		Sun Mar 05 19:39:19 2017
+
+Solver in progress...		Sun Mar 05 19:39:22 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:22 2017
+
+Computing postprocessor quantities...		Sun Mar 05 19:39:22 2017
+
+Writing Solution...		Sun Mar 05 19:39:22 2017
+
+Done Writing Solution.		Sun Mar 05 19:39:23 2017
+
+Done Solving Successfully		Sun Mar 05 19:39:23 2017
+
+
+
+                          Ended on: Sun Mar 05 19:39:23 2017
+
+		Sun Mar 05 19:39:23 2017
+
+
+ Force direction  x = -0.000000e+000, y = 1.000000e+000, z = -0.000000e+000, SW Mechanical Force = 0.000000e+000, Magnetic Force 0.000000e+000, 0.000000e+000, 0.000000e+000, Force to return to SW 0.000000e+000 		Sun Mar 05 19:39:23 2017
+
+Updating mesh with motion...		Sun Mar 05 19:39:23 2017
+
+The following component(s) detected as moving:
+mass-1
+		Sun Mar 05 19:39:23 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+		Sun Mar 05 19:39:23 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+outerAir-1
+		Sun Mar 05 19:39:23 2017
+
+
+
+ Componennt coil-1 detected as Band		Sun Mar 05 19:39:23 2017
+
+
+
+    Recreating volume mesh of body number 0 Component coil-1		Sun Mar 05 19:39:23 2017
+
+
+
+* * * * * * * * * * * * *| Motion Time Step: 0.700000  |* * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 19:39:24 2017
+
+		Sun Mar 05 19:39:24 2017
+
+
+Initializing solver...		Sun Mar 05 19:39:24 2017
+
+
+Study Run...		Sun Mar 05 19:39:24 2017
+
+Checking Load Restraint mesh		Sun Mar 05 19:39:24 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 19:39:24 2017
+
+Nbr mesh faces found the Boundary Condition Tangential Flux - 1 is 2002		Sun Mar 05 19:39:24 2017
+
+Checking coils mesh		Sun Mar 05 19:39:24 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 19:39:24 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 157716		Sun Mar 05 19:39:24 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 181		Sun Mar 05 19:39:24 2017
+
+Preparing mesh database		Sun Mar 05 19:39:24 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 19:39:24 2017
+
+Filling the elements array		Sun Mar 05 19:39:24 2017
+
+
+Checking mesh validity!		Sun Mar 05 19:39:24 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 19:39:24 2017
+
+>>> Finish fill edge array
+		Sun Mar 05 19:39:25 2017
+
+>>> Mesh Elements: = 111980  Mesh Nodes: = 21483
+		Sun Mar 05 19:39:25 2017
+
+>>> Nbr. of edges = 138952  Nbr. of faces = 229452
+		Sun Mar 05 19:39:25 2017
+
+Finish preparing mesh dataBase		Sun Mar 05 19:39:25 2017
+
+Checking Force torque mesh		Sun Mar 05 19:39:25 2017
+
+Finish All mesh checking		Sun Mar 05 19:39:25 2017
+
+
+Done with the Main Study Run		Sun Mar 05 19:39:25 2017
+
+Setting Coils parameters...		Sun Mar 05 19:39:25 2017
+
+
+Getting Coils mesh data		Sun Mar 05 19:39:25 2017
+
+Getting Coils mesh data		Sun Mar 05 19:39:25 2017
+
+Checking materials non linear status...		Sun Mar 05 19:39:25 2017
+
+Forming Coils Support Regions		Sun Mar 05 19:39:25 2017
+
+Voltage Driven Coils found. The Multi-core matrix solver is disabled		Sun Mar 05 19:39:25 2017
+
+Preparing linear system...		Sun Mar 05 19:39:25 2017
+
+Factorizing Matrix for Coil 1		Sun Mar 05 19:39:26 2017
+
+Distributing the currents for Coil 1		Sun Mar 05 19:39:28 2017
+
+Solver in progress...		Sun Mar 05 19:39:28 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:28 2017
+
+Distributed Current successfully for Coil 1		Sun Mar 05 19:39:28 2017
+
+Invoking The Main Magnetostatic Solver...		Sun Mar 05 19:39:28 2017
+
+Solver in progress...		Sun Mar 05 19:39:29 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:29 2017
+
+Computing force and torques quantities...		Sun Mar 05 19:39:29 2017
+
+Solver in progress...		Sun Mar 05 19:39:31 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:31 2017
+
+Computing postprocessor quantities...		Sun Mar 05 19:39:31 2017
+
+Writing Solution...		Sun Mar 05 19:39:31 2017
+
+Done Writing Solution.		Sun Mar 05 19:39:32 2017
+
+Done Solving Successfully		Sun Mar 05 19:39:32 2017
+
+
+
+                          Ended on: Sun Mar 05 19:39:33 2017
+
+		Sun Mar 05 19:39:33 2017
+
+
+ Force direction  x = -0.000000e+000, y = 1.000000e+000, z = -0.000000e+000, SW Mechanical Force = 0.000000e+000, Magnetic Force 0.000000e+000, 0.000000e+000, 0.000000e+000, Force to return to SW 0.000000e+000 		Sun Mar 05 19:39:33 2017
+
+Updating mesh with motion...		Sun Mar 05 19:39:33 2017
+
+The following component(s) detected as moving:
+mass-1
+		Sun Mar 05 19:39:33 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+		Sun Mar 05 19:39:33 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+outerAir-1
+		Sun Mar 05 19:39:33 2017
+
+
+
+ Componennt coil-1 detected as Band		Sun Mar 05 19:39:33 2017
+
+
+
+    Recreating volume mesh of body number 0 Component coil-1		Sun Mar 05 19:39:33 2017
+
+
+
+* * * * * * * * * * * * *| Motion Time Step: 0.800000  |* * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 19:39:33 2017
+
+		Sun Mar 05 19:39:33 2017
+
+
+Initializing solver...		Sun Mar 05 19:39:33 2017
+
+
+Study Run...		Sun Mar 05 19:39:33 2017
+
+Checking Load Restraint mesh		Sun Mar 05 19:39:33 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 19:39:33 2017
+
+Nbr mesh faces found the Boundary Condition Tangential Flux - 1 is 2002		Sun Mar 05 19:39:33 2017
+
+Checking coils mesh		Sun Mar 05 19:39:33 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 19:39:33 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 157716		Sun Mar 05 19:39:34 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 181		Sun Mar 05 19:39:34 2017
+
+Preparing mesh database		Sun Mar 05 19:39:34 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 19:39:34 2017
+
+Filling the elements array		Sun Mar 05 19:39:34 2017
+
+
+Checking mesh validity!		Sun Mar 05 19:39:34 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 19:39:34 2017
+
+
+Finish Prepare linear system for vector TS		Sun Mar 05 19:39:37 2017
+
+Distributing the currents for Coil 1		Sun Mar 05 19:39:37 2017
+
+Solver in progress...		Sun Mar 05 19:39:37 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:38 2017
+
+Distributed Current successfully for Coil 1		Sun Mar 05 19:39:38 2017
+
+Invoking The Main Magnetostatic Solver...		Sun Mar 05 19:39:38 2017
+
+Solver in progress...		Sun Mar 05 19:39:38 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:38 2017
+
+Computing force and torques quantities...		Sun Mar 05 19:39:38 2017
+
+Solver in progress...		Sun Mar 05 19:39:40 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:40 2017
+
+Computing postprocessor quantities...		Sun Mar 05 19:39:40 2017
+
+Writing Solution...		Sun Mar 05 19:39:40 2017
+
+Done Writing Solution.		Sun Mar 05 19:39:41 2017
+
+Done Solving Successfully		Sun Mar 05 19:39:41 2017
+
+
+
+                          Ended on: Sun Mar 05 19:39:42 2017
+
+		Sun Mar 05 19:39:42 2017
+
+
+ Force direction  x = -0.000000e+000, y = 1.000000e+000, z = -0.000000e+000, SW Mechanical Force = 0.000000e+000, Magnetic Force 0.000000e+000, 0.000000e+000, 0.000000e+000, Force to return to SW 0.000000e+000 		Sun Mar 05 19:39:42 2017
+
+Updating mesh with motion...		Sun Mar 05 19:39:42 2017
+
+The following component(s) detected as moving:
+mass-1
+		Sun Mar 05 19:39:42 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+		Sun Mar 05 19:39:42 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+outerAir-1
+		Sun Mar 05 19:39:42 2017
+
+
+
+ Componennt coil-1 detected as Band		Sun Mar 05 19:39:42 2017
+
+
+
+    Recreating volume mesh of body number 0 Component coil-1		Sun Mar 05 19:39:42 2017
+
+
+
+* * * * * * * * * * * * *| Motion Time Step: 0.900000  |* * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 19:39:42 2017
+
+		Sun Mar 05 19:39:42 2017
+
+
+Initializing solver...		Sun Mar 05 19:39:42 2017
+
+
+Study Run...		Sun Mar 05 19:39:42 2017
+
+Checking Load Restraint mesh		Sun Mar 05 19:39:42 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 19:39:42 2017
+
+Nbr mesh faces found the Boundary Condition Tangential Flux - 1 is 2002		Sun Mar 05 19:39:42 2017
+
+Checking coils mesh		Sun Mar 05 19:39:42 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 19:39:42 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 157716		Sun Mar 05 19:39:42 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 181		Sun Mar 05 19:39:42 2017
+
+Preparing mesh database		Sun Mar 05 19:39:42 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 19:39:42 2017
+
+Filling the elements array		Sun Mar 05 19:39:42 2017
+
+
+Checking mesh validity!		Sun Mar 05 19:39:42 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 19:39:43 2017
+
+>>> Finish fill edge array
+		Sun Mar 05 19:39:44 2017
+
+>>> Mesh Elements: = 111980  Mesh Nodes: = 21483
+		Sun Mar 05 19:39:44 2017
+
+>>> Nbr. of edges = 138952  Nbr. of faces = 229452
+		Sun Mar 05 19:39:44 2017
+
+Finish preparing mesh dataBase		Sun Mar 05 19:39:44 2017
+
+Checking Force torque mesh		Sun Mar 05 19:39:44 2017
+
+Finish All mesh checking		Sun Mar 05 19:39:44 2017
+
+
+Done with the Main Study Run		Sun Mar 05 19:39:44 2017
+
+Setting Coils parameters...		Sun Mar 05 19:39:44 2017
+
+
+Getting Coils mesh data		Sun Mar 05 19:39:44 2017
+
+Getting Coils mesh data		Sun Mar 05 19:39:44 2017
+
+Checking materials non linear status...		Sun Mar 05 19:39:44 2017
+
+Forming Coils Support Regions		Sun Mar 05 19:39:44 2017
+
+Voltage Driven Coils found. The Multi-core matrix solver is disabled		Sun Mar 05 19:39:44 2017
+
+Preparing linear system...		Sun Mar 05 19:39:44 2017
+
+Factorizing Matrix for Coil 1		Sun Mar 05 19:39:44 2017
+
+
+Done solving conduction for Coil 1		Sun Mar 05 19:39:45 2017
+
+
+Start Prepare Linear system for vector TS		Sun Mar 05 19:39:45 2017
+
+Solver in progress...		Sun Mar 05 19:39:48 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:48 2017
+
+Computing force and torques quantities...		Sun Mar 05 19:39:48 2017
+
+Solver in progress...		Sun Mar 05 19:39:50 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:50 2017
+
+Computing postprocessor quantities...		Sun Mar 05 19:39:50 2017
+
+Writing Solution...		Sun Mar 05 19:39:50 2017
+
+Done Writing Solution.		Sun Mar 05 19:39:51 2017
+
+Done Solving Successfully		Sun Mar 05 19:39:51 2017
+
+
+
+                          Ended on: Sun Mar 05 19:39:51 2017
+
+		Sun Mar 05 19:39:51 2017
+
+
+ Force direction  x = -0.000000e+000, y = 1.000000e+000, z = -0.000000e+000, SW Mechanical Force = 0.000000e+000, Magnetic Force 0.000000e+000, 0.000000e+000, 0.000000e+000, Force to return to SW 0.000000e+000 		Sun Mar 05 19:39:51 2017
+
+Updating mesh with motion...		Sun Mar 05 19:39:52 2017
+
+The following component(s) detected as moving:
+mass-1
+		Sun Mar 05 19:39:52 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+		Sun Mar 05 19:39:52 2017
+
+The following component(s) detected as moving:
+mass-1
+Nucleo-1
+outerAir-1
+		Sun Mar 05 19:39:52 2017
+
+
+
+ Componennt coil-1 detected as Band		Sun Mar 05 19:39:52 2017
+
+
+
+    Recreating volume mesh of body number 0 Component coil-1		Sun Mar 05 19:39:52 2017
+
+
+
+* * * * * * * * * * * * *| Motion Time Step: 1.000000  |* * * * * * * * * * * * * *
+
+
+                          Started on: Sun Mar 05 19:39:52 2017
+
+		Sun Mar 05 19:39:52 2017
+
+
+Initializing solver...		Sun Mar 05 19:39:52 2017
+
+
+Study Run...		Sun Mar 05 19:39:52 2017
+
+Checking Load Restraint mesh		Sun Mar 05 19:39:52 2017
+
+>>> Checking Load Restraint mesh
+		Sun Mar 05 19:39:52 2017
+
+Nbr mesh faces found the Boundary Condition Tangential Flux - 1 is 2002		Sun Mar 05 19:39:52 2017
+
+Checking coils mesh		Sun Mar 05 19:39:52 2017
+
+>>> Checking coils mesh
+		Sun Mar 05 19:39:52 2017
+
+Nbr mesh faces found in the Main Entity of the Coil Wound Coil - 1 is 157716		Sun Mar 05 19:39:52 2017
+
+Nbr mesh faces found on Entry Port of the Coil Wound Coil - 1 is 181		Sun Mar 05 19:39:52 2017
+
+Preparing mesh database		Sun Mar 05 19:39:52 2017
+
+
+Getting Points (Nodes) coordinates from the mesh		Sun Mar 05 19:39:52 2017
+
+Filling the elements array		Sun Mar 05 19:39:52 2017
+
+
+Checking mesh validity!		Sun Mar 05 19:39:52 2017
+
+>>>  Starting fill edge array
+		Sun Mar 05 19:39:52 2017
+
+
+Done solving conduction for Coil 1		Sun Mar 05 19:39:54 2017
+
+
+Start Prepare Linear system for vector TS		Sun Mar 05 19:39:54 2017
+
+
+Finish Prepare linear system for vector TS		Sun Mar 05 19:39:55 2017
+
+Distributing the currents for Coil 1		Sun Mar 05 19:39:56 2017
+
+Solver in progress...		Sun Mar 05 19:39:56 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:56 2017
+
+Distributed Current successfully for Coil 1		Sun Mar 05 19:39:56 2017
+
+Invoking The Main Magnetostatic Solver...		Sun Mar 05 19:39:56 2017
+
+Solver in progress...		Sun Mar 05 19:39:57 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:57 2017
+
+Computing force and torques quantities...		Sun Mar 05 19:39:57 2017
+
+Solver in progress...		Sun Mar 05 19:39:58 2017
+
+
+Done Solving Successfully		Sun Mar 05 19:39:58 2017
+
+Computing postprocessor quantities...		Sun Mar 05 19:39:59 2017
+
+Writing Solution...		Sun Mar 05 19:39:59 2017
+

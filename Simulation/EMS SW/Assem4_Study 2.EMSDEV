@@ -1,0 +1,164 @@
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+ 
+                          Started on: Mon Mar 06 13:34:05 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ 
+
+                          Ended on: Mon Mar 06 13:34:06 2017
+
+
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+ 
+                          Started on: Mon Mar 06 13:34:54 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ 
+
+                          Ended on: Mon Mar 06 13:34:54 2017
+
+
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+ 
+                          Started on: Mon Mar 06 13:37:39 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   98 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:01   17          Dimension 91650  Non_Zeroes 1400478  Coil 1
+ Solving Step II                     00:00:02 
+     >>>Solving MCI                  00:00:00   0          Dimension 14599  Non_Zeroes 197899
+     >>>Solving MCI                  00:00:00   0          Dimension 14599  Non_Zeroes 197899  Coil 1
+ Solving Step III                    00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:00 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:00 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Mon Mar 06 13:38:07 2017
+
+
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+ 
+                          Started on: Mon Mar 06 13:48:29 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   111 
+ Solving Step I                      00:00:00 
+     >>>Solving MCI                  00:00:03   16          Dimension 101509  Non_Zeroes 1552957  Coil 1
+ Solving Step II                     00:00:04 
+     >>>Solving MCI                  00:00:00   0          Dimension 16133  Non_Zeroes 219151
+     >>>Solving MCI                  00:00:00   0          Dimension 16133  Non_Zeroes 219151  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Mon Mar 06 13:49:04 2017
+
+
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+ 
+                          Started on: Mon Mar 06 13:49:48 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   118 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:03   10          Dimension 101509  Non_Zeroes 1552957  Coil 1
+ Solving Step II                     00:00:04 
+     >>>Solving MCI                  00:00:00   0          Dimension 16133  Non_Zeroes 219151
+     >>>Solving MCI                  00:00:00   1          Dimension 16133  Non_Zeroes 219151  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:02 
+ Writting Solution                   00:00:01 
+ Writting Solution                   00:00:00 
+ 
+
+                          Ended on: Mon Mar 06 13:50:24 2017
+
+

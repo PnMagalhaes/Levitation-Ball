@@ -1,0 +1,24 @@
+﻿* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+*                                                                              
+*                                                                              
+*               E l e c t r o M a g n e t i c W o r k s   I n c.              
+*                                                                              
+*                                                                              
+*               EMS 2016 x64 SP2.2 (2016/065)                                     
+*                                                                              
+*                                                                              
+*                          =<  Magnetostatic Module  >=                        
+*                                                                              
+*                                                                              
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Model Name         :Assem4
+ Model Location     :D:\_Drive\Universidade\_E4\SolidWorks\Sim5
+ Study Name     :Study 2
+ Configuration Name     :Default
+
+
+ Mesh Status       Electromagnetic Run Status				Thermal Run Status
+===========|===============================|===============================
+ Succeeded            Succeeded				Succeeded
+

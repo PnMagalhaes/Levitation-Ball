@@ -1,0 +1,4639 @@
+﻿*********************************************
+
+    E l e c t r o M a g n e t i c W o r k s   I n c. 
+
+            =<  Structural Solver >= 
+
+*********************************************
+
+
+
+
+>>Initializing solver...
+
+
+>>Preparing Thermal solution 
+
+
+
+
+>>Getting Nodes coordinates
+
+
+>>Filling the elements array
+
+
+>>Mesh Elements: 70532  Mesh Nodes: 14599
+
+
+>>Applying materials..
+
+
+>>Getting boundary conditions:
+
+
+>>Getting loading constraints:
+
+
+>>Preparing step for run..
+
+
+>>Determining the structure of the matrix..
+
+
+>>Writting Thermal solution for time 0.000000e+000 
+
+
+
+
+>>Increment 1 Attempt 1
+
+
+>>Actual Time Step=1.000000e+000
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.000000e+000
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.000000e+000
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.000000e+000 
+
+
+
+
+>>Increment 2 Attempt 1
+
+
+>>Actual Time Step=2.000000e+000
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 2.000000e+000
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 2.000000e+000
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 2.000000e+000 
+
+
+
+
+>>Increment 3 Attempt 1
+
+
+>>Actual Time Step=3.000000e+000
+
+
+>>Iteration 1
+
+
+>>Increment 4 Attempt 1
+
+
+>>Actual Time Step=4.000000e+000
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 4.000000e+000
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 4.000000e+000
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 4.000000e+000 
+
+
+
+
+>>Increment 5 Attempt 1
+
+
+>>Actual Time Step=5.000000e+000
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 5.000000e+000
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 5.000000e+000
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 5.000000e+000 
+
+
+
+
+>>Increment 6 Attempt 1
+
+
+>>Actual Time Step=6.000000e+000
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 6.000000e+000
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 6.000000e+000
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 6.000000e+000 
+
+
+
+
+>>Increment 7 Attempt 1
+
+
+>>Actual Time Step=7.000000e+000
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 7.000000e+000
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 7.000000e+000
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 7.000000e+000 
+
+
+
+
+>>Increment 8 Attempt 1
+
+
+>>Actual Time Step=8.000000e+000
+
+
+>>Iteration 1
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 8.000000e+000 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 9 Attempt 1
+
+
+>>Actual Time Step=9.000000e+000
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 9.000000e+000
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 9.000000e+000
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 9.000000e+000 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 10 Attempt 1
+
+
+>>Actual Time Step=1.000000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.000000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.000000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.000000e+001 
+
+
+
+
+>>Increment 11 Attempt 1
+
+
+>>Actual Time Step=1.100000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.100000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.100000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.100000e+001 
+
+
+
+
+>>Increment 12 Attempt 1
+
+
+>>Actual Time Step=1.200000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.200000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.200000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.200000e+001 
+
+
+
+
+>>Increment 13 Attempt 1
+
+
+>>Actual Time Step=1.300000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.300000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.300000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.300000e+001 
+
+
+
+
+>>Increment 14 Attempt 1
+
+
+>>Actual Time Step=1.400000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.400000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.400000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.400000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 15 Attempt 1
+
+
+>>Actual Time Step=1.500000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.500000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.500000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.500000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 16 Attempt 1
+
+
+>>Actual Time Step=1.600000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.600000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Assembling Thermal Matrices 1.700000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.700000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.700000e+001 
+
+
+
+
+>>Increment 18 Attempt 1
+
+
+>>Actual Time Step=1.800000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.800000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.800000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.800000e+001 
+
+
+
+
+>>Increment 19 Attempt 1
+
+
+>>Actual Time Step=1.900000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.900000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.900000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.900000e+001 
+
+
+
+
+>>Increment 20 Attempt 1
+
+
+>>Actual Time Step=2.000000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 2.000000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 2.000000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 2.000000e+001 
+
+
+
+
+>>Increment 21 Attempt 1
+
+
+>>Actual Time Step=2.100000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 2.100000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 2.100000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 2.100000e+001 
+
+
+
+
+>>Assembling Thermal Matrices 2.300000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 2.300000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 2.300000e+001 
+
+
+
+
+>>Increment 24 Attempt 1
+
+
+>>Actual Time Step=2.400000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 2.400000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 2.400000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 2.400000e+001 
+
+
+
+
+>>Increment 25 Attempt 1
+
+
+>>Actual Time Step=2.500000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 2.500000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 2.500000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 2.500000e+001 
+
+
+
+
+>>Increment 26 Attempt 1
+
+
+>>Actual Time Step=2.600000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 2.600000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 2.600000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 2.600000e+001 
+
+
+
+
+>>Increment 27 Attempt 1
+
+
+>>Actual Time Step=2.700000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 2.700000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 2.700000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Assembling Thermal Matrices 2.800000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 2.800000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 2.800000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 29 Attempt 1
+
+
+>>Actual Time Step=2.900000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 2.900000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 2.900000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 2.900000e+001 
+
+
+
+
+>>Increment 30 Attempt 1
+
+
+>>Actual Time Step=3.000000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 3.000000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 3.000000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 3.000000e+001 
+
+
+
+
+>>Increment 31 Attempt 1
+
+
+>>Actual Time Step=3.100000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 3.100000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 3.100000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 3.100000e+001 
+
+
+
+
+>>Increment 32 Attempt 1
+
+
+>>Actual Time Step=3.200000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 3.200000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 3.200000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 3.200000e+001 
+
+
+
+
+>>Increment 33 Attempt 1
+
+
+>>Actual Time Step=3.300000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 3.300000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 3.300000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 3.300000e+001 
+
+
+
+
+>>Increment 34 Attempt 1
+
+
+>>Actual Time Step=3.400000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 3.400000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 3.500000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 3.500000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 36 Attempt 1
+
+
+>>Actual Time Step=3.600000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 3.600000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 3.600000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 3.600000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 37 Attempt 1
+
+
+>>Actual Time Step=3.700000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 3.700000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 3.700000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 3.700000e+001 
+
+
+
+
+>>Increment 38 Attempt 1
+
+
+>>Actual Time Step=3.800000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 3.800000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 3.800000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 3.800000e+001 
+
+
+
+
+>>Increment 39 Attempt 1
+
+
+>>Actual Time Step=3.900000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 3.900000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 3.900000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 3.900000e+001 
+
+
+
+
+>>Increment 40 Attempt 1
+
+
+>>Actual Time Step=4.000000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 4.000000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 4.000000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 4.000000e+001 
+
+
+
+
+>>Increment 41 Attempt 1
+
+
+>>Actual Time Step=4.100000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 4.100000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 4.100000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Cannot open results file!
+
+
+>>Increment 42 Attempt 1
+
+
+>>Actual Time Step=4.200000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 4.200000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 4.200000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 4.200000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 43 Attempt 1
+
+
+>>Actual Time Step=4.300000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 4.300000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 4.300000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 4.300000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 44 Attempt 1
+
+
+>>Actual Time Step=4.400000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 4.400000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 4.400000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 4.400000e+001 
+
+
+
+
+>>Increment 45 Attempt 1
+
+
+>>Actual Time Step=4.500000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 4.500000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 4.500000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 4.500000e+001 
+
+
+
+
+>>Increment 46 Attempt 1
+
+
+>>Actual Time Step=4.600000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 4.600000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 4.600000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 4.600000e+001 
+
+
+
+
+>>Increment 47 Attempt 1
+
+
+>>Actual Time Step=4.700000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 4.700000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 4.700000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 4.700000e+001 
+
+
+
+
+>>Increment 48 Attempt 1
+
+
+>>Actual Time Step=4.800000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 4.800000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 4.800000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 4.800000e+001 
+
+
+
+
+>>Increment 49 Attempt 1
+
+
+>>Actual Time Step=4.900000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 4.900000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 5.000000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 5.000000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 51 Attempt 1
+
+
+>>Actual Time Step=5.100000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 5.100000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 5.100000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 5.100000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 52 Attempt 1
+
+
+>>Actual Time Step=5.200000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 5.200000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 5.200000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 5.200000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 53 Attempt 1
+
+
+>>Actual Time Step=5.300000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 5.300000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 5.300000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 5.300000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 54 Attempt 1
+
+
+>>Actual Time Step=5.400000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 5.400000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 5.400000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 5.400000e+001 
+
+
+
+
+>>Increment 55 Attempt 1
+
+
+>>Actual Time Step=5.500000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 5.500000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 5.500000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 5.500000e+001 
+
+
+
+
+>>Increment 56 Attempt 1
+
+
+>>Actual Time Step=5.600000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 5.600000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 5.600000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 5.600000e+001 
+
+
+
+
+>>Increment 57 Attempt 1
+
+
+>>Actual Time Step=5.700000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 5.700000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 5.700000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 5.700000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 59 Attempt 1
+
+
+>>Actual Time Step=5.900000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 5.900000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 5.900000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 5.900000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 60 Attempt 1
+
+
+>>Actual Time Step=6.000000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 6.000000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 6.000000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 6.000000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 61 Attempt 1
+
+
+>>Actual Time Step=6.100000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 6.100000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 6.100000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 6.100000e+001 
+
+
+
+
+>>Increment 62 Attempt 1
+
+
+>>Actual Time Step=6.200000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 6.200000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 6.200000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 6.200000e+001 
+
+
+
+
+>>Increment 64 Attempt 1
+
+
+>>Actual Time Step=6.400000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 6.400000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 6.400000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 6.400000e+001 
+
+
+
+
+>>Increment 65 Attempt 1
+
+
+>>Actual Time Step=6.500000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 6.500000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 6.500000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 6.500000e+001 
+
+
+
+
+>>Increment 66 Attempt 1
+
+
+>>Actual Time Step=6.600000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 6.600000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 6.600000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 6.600000e+001 
+
+
+
+
+>>Increment 67 Attempt 1
+
+
+>>Actual Time Step=6.700000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 6.700000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 6.700000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 6.700000e+001 
+
+
+
+
+>>Increment 68 Attempt 1
+
+
+>>Actual Time Step=6.800000e+001
+
+
+>>Iteration 1
+
+
+>>Solving Thermal Matrices 6.900000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 6.900000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 70 Attempt 1
+
+
+>>Actual Time Step=7.000000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 7.000000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 7.000000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 7.000000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 71 Attempt 1
+
+
+>>Actual Time Step=7.100000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 7.100000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 7.100000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 7.100000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 72 Attempt 1
+
+
+>>Actual Time Step=7.200000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 7.200000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 7.200000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 7.200000e+001 
+
+
+
+
+>>Increment 73 Attempt 1
+
+
+>>Actual Time Step=7.300000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 7.300000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 7.400000e+001 
+
+
+
+
+>>Increment 75 Attempt 1
+
+
+>>Actual Time Step=7.500000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 7.500000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 7.500000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 7.500000e+001 
+
+
+
+
+>>Increment 76 Attempt 1
+
+
+>>Actual Time Step=7.600000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 7.600000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 7.600000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 7.600000e+001 
+
+
+
+
+>>Increment 77 Attempt 1
+
+
+>>Actual Time Step=7.700000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 7.700000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 7.700000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 7.700000e+001 
+
+
+
+
+>>Increment 78 Attempt 1
+
+
+>>Actual Time Step=7.800000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 7.800000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 7.900000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 7.900000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 80 Attempt 1
+
+
+>>Actual Time Step=8.000000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 8.000000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 8.000000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 8.000000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 81 Attempt 1
+
+
+>>Actual Time Step=8.100000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 8.100000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 8.100000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 8.100000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 82 Attempt 1
+
+
+>>Actual Time Step=8.200000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 8.200000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 8.200000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 8.200000e+001 
+
+
+
+
+>>Increment 83 Attempt 1
+
+
+>>Actual Time Step=8.300000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 8.300000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 8.300000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 8.300000e+001 
+
+
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 8.400000e+001 
+
+
+
+
+>>Increment 85 Attempt 1
+
+
+>>Actual Time Step=8.500000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 8.500000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 8.500000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 8.500000e+001 
+
+
+
+
+>>Increment 86 Attempt 1
+
+
+>>Actual Time Step=8.600000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 8.600000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 8.600000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 8.600000e+001 
+
+
+
+
+>>Increment 87 Attempt 1
+
+
+>>Actual Time Step=8.700000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 8.700000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 8.700000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 8.700000e+001 
+
+
+
+
+>>Increment 88 Attempt 1
+
+
+>>Actual Time Step=8.800000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 8.800000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 8.800000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Assembling Thermal Matrices 8.900000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 8.900000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 8.900000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 90 Attempt 1
+
+
+>>Actual Time Step=9.000000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 9.000000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 9.000000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 9.000000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 91 Attempt 1
+
+
+>>Actual Time Step=9.100000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 9.100000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 9.100000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 9.100000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 92 Attempt 1
+
+
+>>Actual Time Step=9.200000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 9.200000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 9.200000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 9.200000e+001 
+
+
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 9.300000e+001 
+
+
+
+
+>>Increment 94 Attempt 1
+
+
+>>Actual Time Step=9.400000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 9.400000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 9.400000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 9.400000e+001 
+
+
+
+
+>>Increment 95 Attempt 1
+
+
+>>Actual Time Step=9.500000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 9.500000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 9.500000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 9.500000e+001 
+
+
+
+
+>>Increment 96 Attempt 1
+
+
+>>Actual Time Step=9.600000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 9.600000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 9.600000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 9.600000e+001 
+
+
+
+
+>>Increment 97 Attempt 1
+
+
+>>Actual Time Step=9.700000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 9.700000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 9.700000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 9.700000e+001 
+
+
+
+
+>>Increment 98 Attempt 1
+
+
+>>Actual Time Step=9.800000e+001
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 9.800000e+001
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 9.800000e+001
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 9.900000e+001 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 100 Attempt 1
+
+
+>>Actual Time Step=1.000000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.000000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.000000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.000000e+002 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 101 Attempt 1
+
+
+>>Actual Time Step=1.010000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.010000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.010000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.010000e+002 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 102 Attempt 1
+
+
+>>Actual Time Step=1.020000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.020000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.020000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.020000e+002 
+
+
+
+
+>>Increment 103 Attempt 1
+
+
+>>Actual Time Step=1.030000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.030000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.030000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.040000e+002 
+
+
+
+
+>>Increment 105 Attempt 1
+
+
+>>Actual Time Step=1.050000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.050000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.050000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.050000e+002 
+
+
+
+
+>>Increment 106 Attempt 1
+
+
+>>Actual Time Step=1.060000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.060000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.060000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.060000e+002 
+
+
+
+
+>>Increment 107 Attempt 1
+
+
+>>Actual Time Step=1.070000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.070000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.070000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.070000e+002 
+
+
+
+
+>>Increment 108 Attempt 1
+
+
+>>Actual Time Step=1.080000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.080000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.080000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.080000e+002 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 110 Attempt 1
+
+
+>>Actual Time Step=1.100000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.100000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.100000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.100000e+002 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 111 Attempt 1
+
+
+>>Actual Time Step=1.110000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.110000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.110000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.110000e+002 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 112 Attempt 1
+
+
+>>Actual Time Step=1.120000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.120000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.120000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.120000e+002 
+
+
+
+
+>>Cannot open results file!
+
+
+>>Increment 113 Attempt 1
+
+
+>>Actual Time Step=1.130000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.130000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.130000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.130000e+002 
+
+
+
+
+>>Increment 114 Attempt 1
+
+
+>>Actual Time Step=1.140000e+002
+
+
+>>Iteration 1
+
+
+>>Increment 115 Attempt 1
+
+
+>>Actual Time Step=1.150000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.150000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.150000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.150000e+002 
+
+
+
+
+>>Increment 116 Attempt 1
+
+
+>>Actual Time Step=1.160000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.160000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.160000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.160000e+002 
+
+
+
+
+>>Increment 117 Attempt 1
+
+
+>>Actual Time Step=1.170000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.170000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.170000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.170000e+002 
+
+
+
+
+>>Increment 118 Attempt 1
+
+
+>>Actual Time Step=1.180000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.180000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.180000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.180000e+002 
+
+
+
+
+>>Increment 119 Attempt 1
+
+
+>>Actual Time Step=1.190000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.190000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.190000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>Convergence
+
+
+>>Computing postprocessor quantities...
+
+
+>>Writting Thermal solution for time 1.190000e+002 
+
+
+
+
+>>Increment 120 Attempt 1
+
+
+>>Actual Time Step=1.200000e+002
+
+
+>>Iteration 1
+
+
+>>Assembling Thermal Matrices 1.200000e+002
+
+
+>>Filling the stifness matrix..
+
+
+>>Solving Thermal Matrices 1.200000e+002
+
+
+>>Multi-core Iterative Solver: Solving Matrix Equations..
+
+
+>>No convergence
+
+
+>>Iteration 2
+
+
+>>Filling the stifness matrix..

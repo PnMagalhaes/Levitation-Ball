@@ -1,0 +1,101 @@
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+ 
+                          Started on: Sun Mar 05 22:44:33 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:02   175 
+ Solving Step I                      00:00:00 
+     >>>Solving MCI                  00:00:01   8          Dimension 101147  Non_Zeroes 1634005  Coil 1
+ Solving Step II                     00:00:02 
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:02 
+ 
+
+                          Ended on: Sun Mar 05 22:44:47 2017
+
+
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+ 
+                          Started on: Sun Mar 05 22:47:01 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:02   141 
+ Solving Step I                      00:00:00 
+     >>>Solving MCI                  00:00:01   8          Dimension 101147  Non_Zeroes 1634005  Coil 1
+ Solving Step II                     00:00:02 
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:02 
+ 
+
+                          Ended on: Sun Mar 05 22:47:15 2017
+
+
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+ 
+                          Started on: Sun Mar 05 22:48:29 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:02   121 
+ Solving Step I                      00:00:00 
+     >>>Solving MCI                  00:00:01   7          Dimension 101147  Non_Zeroes 1634005  Coil 1
+ Solving Step II                     00:00:02 
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:02 
+ 
+
+                          Ended on: Sun Mar 05 22:48:43 2017
+
+
+ 
+
+                          Ended on: Sun Mar 05 22:58:10 2017
+
+
+==========================================================================================================================
+= EMWORKS Dev File               EMS 2016 x64 SP2.2 (2016/065)                    Magnetostatic Module 
+                 
+==========================================================================================================================
+*                                                                              
+ 
+                          Started on: Sun Mar 05 23:00:58 2017
+
+
+Task                                Real Time  Memory(MB)   Information 
+----                                ---------  ---------   ------------------------------------------------------ 
+ Filling Elements Array              00:00:01   96 
+ Solving Step I                      00:00:01 
+     >>>Solving MCI                  00:00:00   83          Dimension 101147  Non_Zeroes 1634005  Coil 1
+ Solving Step II                     00:00:01 
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058
+     >>>Solving MCI                  00:00:00   0          Dimension 15318  Non_Zeroes 225058  Coil 1
+ Solving Step III                    00:00:02 
+ Writting Solution                   00:00:02 
+ 
+
+                          Ended on: Sun Mar 05 23:01:12 2017
+
+
