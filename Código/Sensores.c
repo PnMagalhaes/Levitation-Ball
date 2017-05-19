@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
     {
         
         int a = get_position();
-        //printf("P[%d]", a);
+        printf("P[%d]", a);
         delay(1000);
         
     }
@@ -105,7 +105,7 @@ int get_position()
     int temp = 0;
     
     for(i=0; i < numLeds; i++)
-		{
+	{
             //ligar emissores
             //printf("forSetLeds\n \r");
 			LATB = LATB & 0xFF00;           
@@ -117,32 +117,20 @@ int get_position()
 			
             delay(100);
             
-		}
-    if (Y[0] == 0)
+	}
+    //printf("k");
+    if(Y[0] != 0 || Y[6] != 0)
     {
-        printf("X");
-        //Y[6]=0; 
-        //Y[0]=1;
-    }
-    else if(Y[6] == 0)
-    {
-        printf("Y");
-        //Y[0]=0;
-        //Y[6]=1;
-    }
-    else
-    {
-        printf("k");
-    for(temp = 0 ; temp < 8 ;temp++)
-    {        
-        if(Y[temp] == 0)
-        {
-            pos = temp;
-            break;
-        }        
+        for(temp = 0 ; temp < 8 ;temp++)
+        {        
+            if(Y[temp] == 0)
+            {
+                pos = temp;
+                break;
+            }        
         //printf("P[%d]", pos);        
-    }     
-    }
+        }     
+    }    
     return temp;
 }
 void setMux(unsigned int num)
