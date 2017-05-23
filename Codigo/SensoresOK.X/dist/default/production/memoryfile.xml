@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/SensoresOK.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>524288</length>                 
+      <used>37816</used>                     
+      <free>486472</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>131072</length>                 
+      <used>1588</used>                     
+      <free>129484</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
